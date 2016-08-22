@@ -1,1 +1,15 @@
-[]
+[
+	{
+		"name" : "Four Points By Sheraton Tucson Airport",
+		"url" : "http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=3587",
+		"category" : "SPG1",
+		"address" : "7060 South Tucson Boulevard",
+		"city" : "Tucson",
+		"state" : "Arizona",
+		"country": "United States",
+		"zip" : "85756",
+		"phone" : "1-520-746-0271",
+		"latitude" : 32.123779,
+		"longitude" : -110.935883
+	}
+]
