@@ -1,0 +1,1979 @@
+[STARWOOD] Fetching all Properties...Done. (loaded from disk cache)
+[STARWOOD] 1964 total properties found.
+[STARWOOD] Parsing Sheraton Birmingham Hotel: √ (already saved)
+[STARWOOD] Parsing The Westin Birmingham: √ (already saved)
+[STARWOOD] Parsing Aloft Birmingham Soho Square: √ (already saved)
+[STARWOOD] Parsing Element Huntsville: √ (already saved)
+[STARWOOD] Parsing Four Points by Sheraton Huntsville Airport: √ (already saved)
+[STARWOOD] Parsing The Westin Huntsville: √ (already saved)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Anchorage Hotel & Spa: √
+[STARWOOD] Parsing Four Points by Sheraton Juneau: √
+[STARWOOD] Parsing Element Chandler Fashion Center: √
+[STARWOOD] Parsing Sheraton Grand at Wild Horse Pass: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton at Phoenix Mesa Gateway Airport: √
+[STARWOOD] Parsing Sheraton Mesa Hotel at Wrigleyville West: √
+[STARWOOD] Parsing Aloft Phoenix-Airport: √
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=4349): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+[STARWOOD] Parsing Four Points by Sheraton Phoenix South Mountain: √
+[STARWOOD] Parsing Sheraton Crescent Hotel: √
+[STARWOOD] Parsing Sheraton Grand Phoenix: √
+[STARWOOD] Parsing The Westin Phoenix Downtown: √
+[STARWOOD] Parsing Aloft Scottsdale: √
+[STARWOOD] Parsing Phoenician Residences, a Luxury Collection Residence Club, Scottsdale: √
+[STARWOOD] Parsing Sheraton Desert Oasis Villas, Scottsdale: √
+[STARWOOD] Parsing The Canyon Suites at The Phoenician, a Luxury Collection Resort, Scottsdale: √
+[STARWOOD] Parsing The Phoenician, a Luxury Collection Resort, Scottsdale: √
+[STARWOOD] Parsing The Westin Kierland Resort & Spa: √
+[STARWOOD] Parsing The Westin Kierland Villas, Scottsdale: √
+[STARWOOD] Parsing W Scottsdale: √
+[STARWOOD] Parsing Aloft Tempe: √
+[STARWOOD] Parsing Sheraton Phoenix Airport Hotel Tempe: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Tucson University: √
+[STARWOOD] Parsing Four Points by Sheraton Tucson Airport: √
+[STARWOOD] Parsing Sheraton Tucson Hotel & Suites: √
+[STARWOOD] Parsing The Westin La Paloma Resort & Spa: √
+[STARWOOD] Parsing Element Bentonville: √
+[STARWOOD] Parsing Four Points by Sheraton Bentonville: √
+[STARWOOD] Parsing Four Points by Sheraton Little Rock Midtown: √
+[STARWOOD] Parsing Aloft Rogers-Bentonville: √
+[STARWOOD] Parsing Sheraton Agoura Hills Hotel: √
+[STARWOOD] Parsing Sheraton Park Hotel at the Anaheim Resort: √
+[STARWOOD] Parsing Four Points by Sheraton Bakersfield: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Carlsbad Resort & Spa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Cerritos Hotel: √
+[STARWOOD] Parsing Avenue of the Arts Costa Mesa, a Tribute Portfolio Hotel: √
+[STARWOOD] Parsing The Westin South Coast Plaza, Costa Mesa: √
+[STARWOOD] Parsing Four Points by Sheraton Los Angeles Westside: √
+[STARWOOD] Parsing Aloft Cupertino: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft El Segundo - Los Angeles Airport: √
+[STARWOOD] Parsing Four Points by Sheraton San Francisco Bay Bridge: √
+[STARWOOD] Parsing Sheraton Garden Grove - Anaheim South Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing W Hollywood: √
+[STARWOOD] Parsing Sheraton La Jolla Hotel: √
+[STARWOOD] Parsing The Westin Long Beach: √
+[STARWOOD] Parsing Four Points by Sheraton Los Angeles International Airport: √
+[STARWOOD] Parsing Sheraton Gateway Los Angeles Hotel: √
+[STARWOOD] Parsing Sheraton Grand Los Angeles: √
+[STARWOOD] Parsing SLS Hotel, a Luxury Collection Hotel, Beverly Hills: √
+[STARWOOD] Parsing The Westin Bonaventure Hotel & Suites, Los Angeles: √
+[STARWOOD] Parsing The Westin Los Angeles Airport: √
+[STARWOOD] Parsing W Los Angeles - West Beverly Hills: √
+[STARWOOD] Parsing The Westin Monache Resort, Mammoth: √
+[STARWOOD] Parsing Aloft San Francisco Airport: √
+[STARWOOD] Parsing The Westin San Francisco Airport: √
+[STARWOOD] Parsing Sheraton San Jose Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Verasa Napa: √
+[STARWOOD] Parsing Aloft Silicon Valley: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Ontario Airport Hotel: √
+[STARWOOD] Parsing The Westin Desert Willow Villas, Palm Desert: √
+[STARWOOD] Parsing Le Parker Méridien Palm Springs: √
+[STARWOOD] Parsing The Riviera Palm Springs, a Tribute Portfolio Resort: √
+[STARWOOD] Parsing Element Palmdale: √
+[STARWOOD] Parsing Sheraton Palo Alto Hotel: √
+[STARWOOD] Parsing The Westin Palo Alto: √
+[STARWOOD] Parsing Sheraton Pasadena Hotel: √
+[STARWOOD] Parsing The Westin Pasadena: √
+[STARWOOD] Parsing Sheraton Sonoma County - Petaluma: √
+[STARWOOD] Parsing Four Points by Sheraton Pleasanton: √
+[STARWOOD] Parsing Sheraton Pleasanton Hotel: √
+[STARWOOD] Parsing Sheraton Fairplex Hotel & Conference Center: √
+[STARWOOD] Parsing Aloft Ontario-Rancho Cucamonga: √
+[STARWOOD] Parsing Four Points by Sheraton Ontario-Rancho Cucamonga: √
+[STARWOOD] Parsing The Westin Mission Hills Golf Resort & Spa: √
+[STARWOOD] Parsing The Westin Mission Hills Resort Villas, Palm Springs: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Sacramento International Airport: √
+[STARWOOD] Parsing Sheraton Grand Sacramento Hotel: √
+[STARWOOD] Parsing The Westin Sacramento: √
+[STARWOOD] Parsing Four Points by Sheraton San Diego: √
+[STARWOOD] Parsing Four Points by Sheraton San Diego - SeaWorld: √
+[STARWOOD] Parsing Four Points by Sheraton San Diego Downtown: √
+[STARWOOD] Parsing Sheraton Mission Valley San Diego Hotel: √
+[STARWOOD] Parsing Sheraton San Diego Hotel & Marina: √
+[STARWOOD] Parsing THE US GRANT, a Luxury Collection Hotel, San Diego: √
+[STARWOOD] Parsing The Westin San Diego: √
+[STARWOOD] Parsing The Westin San Diego Gaslamp Quarter: √
+[STARWOOD] Parsing Le Méridien San Francisco: √
+[STARWOOD] Parsing Palace Hotel, a Luxury Collection Hotel, San Francisco: √
+[STARWOOD] Parsing Sheraton Fisherman's Wharf Hotel: √
+[STARWOOD] Parsing The Park Central San Francisco: √
+[STARWOOD] Parsing The St. Regis San Francisco: √
+[STARWOOD] Parsing The Westin St. Francis San Francisco on Union Square: √
+[STARWOOD] Parsing W San Francisco: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft San Jose Cupertino: √
+[STARWOOD] Parsing Aloft Santa Clara: √
+[STARWOOD] Parsing Four Points by Sheraton San Jose Airport: √
+[STARWOOD] Parsing Four Points by Sheraton San Jose Downtown: √
+[STARWOOD] Parsing The Westin San Jose: √
+[STARWOOD] Parsing Four Points by Sheraton San Rafael: √
+[STARWOOD] Parsing Le Méridien Delfina Santa Monica: √
+[STARWOOD] Parsing Four Points by Sheraton Hotel & Suites San Francisco Airport: √
+[STARWOOD] Parsing Las Alcobas, a Luxury Collection Hotel, Napa Valley: √
+[STARWOOD] Parsing Aloft Sunnyvale: √
+[STARWOOD] Parsing Sheraton Sunnyvale Hotel: √
+[STARWOOD] Parsing Sheraton Universal Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Ventura Harbor Resort: √
+[STARWOOD] Parsing St. Regis Residence Club, Aspen: √
+[STARWOOD] Parsing The St. Regis Aspen Resort: √
+[STARWOOD] Parsing Aloft Denver International Airport: √
+[STARWOOD] Parsing Sheraton Mountain Vista Villas, Avon / Vail Valley: √
+[STARWOOD] Parsing The Westin Riverfront Mountain Villas, Beaver Creek Mountain: √
+[STARWOOD] Parsing The Westin Riverfront Resort & Spa at Beaver Creek Mountain: √
+[STARWOOD] Parsing Element Basalt - Aspen: √
+[STARWOOD] Parsing Aloft Broomfield Denver: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Denver Downtown: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Denver Downtown: √
+[STARWOOD] Parsing Sheraton Denver Downtown Hotel: √
+[STARWOOD] Parsing The Westin Denver Downtown: √
+[STARWOOD] Parsing The Westin Denver International Airport: √
+[STARWOOD] Parsing Sheraton Denver Tech Center Hotel: √
+[STARWOOD] Parsing Sheraton Denver West Hotel: √
+[STARWOOD] Parsing Element Denver Park Meadows: √
+[STARWOOD] Parsing The Westin Snowmass Resort: √
+[STARWOOD] Parsing Sheraton Steamboat Resort: √
+[STARWOOD] Parsing Sheraton Steamboat Resort Villas: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Westminster: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Meriden: √
+[STARWOOD] Parsing Sheraton Hartford South Hotel: √
+[STARWOOD] Parsing Sheraton Stamford Hotel: √
+[STARWOOD] Parsing Sheraton Hartford Hotel at Bradley Airport: √
+[STARWOOD] Parsing Sheraton Wilmington South Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Newark: √
+[STARWOOD] Parsing Sheraton Suites Wilmington Downtown: √
+[STARWOOD] Parsing The Westin Wilmington: √
+[STARWOOD] Parsing The St. Regis Washington, D.C.: √
+[STARWOOD] Parsing The Westin Georgetown, Washington D.C.: √
+[STARWOOD] Parsing The Westin Washington, D.C. City Center: √
+[STARWOOD] Parsing W Washington D.C.: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The St. Regis Bal Harbour Resort: √
+[STARWOOD] Parsing The Westin Cape Coral Resort at Marina Village: √
+[STARWOOD] Parsing Sheraton Sand Key Resort: √
+[STARWOOD] Parsing Four Points by Sheraton Cocoa Beach: √
+[STARWOOD] Parsing Aloft Coral Gables: √
+[STARWOOD] Parsing Four Points by Sheraton Coral Gables: √
+[STARWOOD] Parsing The Westin Colonnade, Coral Gables: √
+[STARWOOD] Parsing Le Méridien Dania Beach at Fort Lauderdale Airport: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Daytona Beach Resort & Spa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Miami Doral: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Suites Fort Lauderdale at Cypress Creek: √
+[STARWOOD] Parsing The Westin Fort Lauderdale: √
+[STARWOOD] Parsing The Westin Fort Lauderdale Beach Resort: √
+[STARWOOD] Parsing W Fort Lauderdale: √
+[STARWOOD] Parsing Four Points by Sheraton Fort Myers Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Destin-Fort Walton Beach: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Jacksonville Airport: √
+[STARWOOD] Parsing Aloft Jacksonville Tapestry Park: √
+[STARWOOD] Parsing Four Points by Sheraton Jacksonville Baymeadows: √
+[STARWOOD] Parsing Sheraton Jacksonville Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Jacksonville Beachfront: √
+[STARWOOD] Parsing Sheraton Suites Key West: √
+[STARWOOD] Parsing Sunset Key Cottages, a Luxury Collection Resort, Key West: √
+[STARWOOD] Parsing The Westin Key West Resort & Marina: √
+[STARWOOD] Parsing Walt Disney World Dolphin: √
+[STARWOOD] Parsing Walt Disney World Swan: √
+[STARWOOD] Parsing The Westin Lake Mary, Orlando North: √
+[STARWOOD] Parsing Sheraton Orlando North Hotel: √
+[STARWOOD] Parsing Aloft Miami - Brickell: √
+[STARWOOD] Parsing Aloft Miami Airport: √
+[STARWOOD] Parsing Element Miami Doral: √
+[STARWOOD] Parsing Element Miami International Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Miami Airport: √
+[STARWOOD] Parsing Sheraton Miami Airport Hotel & Executive Meeting Center: √
+[STARWOOD] Parsing W Miami: √
+[STARWOOD] Parsing Aloft South Beach: √
+[STARWOOD] Parsing Four Points by Sheraton Miami Beach: √
+[STARWOOD] Parsing Royal Palm South Beach Miami, a Tribute Portfolio Resort: √
+[STARWOOD] Parsing W South Beach: √
+[STARWOOD] Parsing Aloft Orlando Downtown: √
+[STARWOOD] Parsing Four Points by Sheraton Orlando International Drive: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Lake Buena Vista Resort: √
+[STARWOOD] Parsing Sheraton Suites Orlando Airport: √
+[STARWOOD] Parsing Sheraton Vistana Resort Villas, Lake Buena Vista/Orlando: √
+[STARWOOD] Parsing Sheraton Vistana Villages Resort Villas, I-Drive/Orlando: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Bay Point Resort: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Suites Plantation: √
+[STARWOOD] Parsing Sheraton PGA Vacation Resort, Port St. Lucie: √
+[STARWOOD] Parsing Four Points by Sheraton Punta Gorda Harborside: √
+[STARWOOD] Parsing Aloft Sarasota: √
+[STARWOOD] Parsing The Westin Sarasota: √
+[STARWOOD] Parsing Aloft Tallahassee Downtown: √
+[STARWOOD] Parsing Four Points by Sheraton Tallahassee Downtown: √
+[STARWOOD] Parsing Aloft Tampa Downtown: √
+[STARWOOD] Parsing Le Méridien Tampa: √
+[STARWOOD] Parsing Sheraton Suites Tampa Airport Westshore: √
+[STARWOOD] Parsing Sheraton Tampa East Hotel: √
+[STARWOOD] Parsing Sheraton Tampa Riverwalk Hotel: √
+[STARWOOD] Parsing The Westin Tampa Bay: √
+[STARWOOD] Parsing The Westin Tampa Harbour Island: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Atlanta Downtown: √
+[STARWOOD] Parsing Four Points by Sheraton Atlanta Airport West: √
+[STARWOOD] Parsing Le Méridien Atlanta Perimeter: √
+[STARWOOD] Parsing Sheraton Atlanta Airport Hotel: √
+[STARWOOD] Parsing Sheraton Atlanta Hotel: √
+[STARWOOD] Parsing Sheraton Atlanta Perimeter North Hotel: √
+[STARWOOD] Parsing Sheraton Suites Galleria-Atlanta: √
+[STARWOOD] Parsing The St. Regis Atlanta: √
+[STARWOOD] Parsing The Westin Atlanta Airport: √
+[STARWOOD] Parsing The Westin Atlanta Perimeter North: √
+[STARWOOD] Parsing The Westin Buckhead Atlanta: √
+[STARWOOD] Parsing The Westin Peachtree Plaza, Atlanta: √
+[STARWOOD] Parsing W Atlanta - Buckhead: √
+[STARWOOD] Parsing W Atlanta - Downtown: √
+[STARWOOD] Parsing W Atlanta - Midtown: √
+[STARWOOD] Parsing Sheraton Augusta Hotel: √
+[STARWOOD] Parsing The Westin Jekyll Island: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Savannah Harbor Golf Resort & Spa: √
+[STARWOOD] Parsing Sheraton Laguna Guam Resort: √
+[STARWOOD] Parsing The Westin Resort Guam: √
+[STARWOOD] Parsing Moana Surfrider, A Westin Resort & Spa, Waikiki Beach: √
+[STARWOOD] Parsing Sheraton Princess Kaiulani: √
+[STARWOOD] Parsing Sheraton Waikiki: √
+[STARWOOD] Parsing The Royal Hawaiian, a Luxury Collection Resort, Waikiki: √
+[STARWOOD] Parsing Sheraton Kona Resort & Spa at Keauhou Bay: √
+[STARWOOD] Parsing Sheraton Kauai Resort: √
+[STARWOOD] Parsing The St. Regis Princeville Resort: √
+[STARWOOD] Parsing The Westin Princeville Ocean Resort Villas: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Maui Resort & Spa: √
+[STARWOOD] Parsing The Westin Ka'anapali Ocean Resort Villas: √
+[STARWOOD] Parsing The Westin Maui Resort & Spa, Ka'anapali: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Bolingbrook: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Chicago City Center: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Grand Chicago: √
+[STARWOOD] Parsing The Gwen, a Luxury Collection Hotel, Chicago: √
+[STARWOOD] Parsing The Robey, Chicago, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Chicago River North: √
+[STARWOOD] Parsing The Westin Michigan Avenue Chicago: √
+[STARWOOD] Parsing W Chicago - City Center: √
+[STARWOOD] Parsing W Chicago - Lakeshore: √
+[STARWOOD] Parsing Sheraton Suites Chicago Elk Grove: √
+[STARWOOD] Parsing Four Points by Sheraton St. Louis - Fairview Heights: √
+[STARWOOD] Parsing The Westin Chicago Northwest: √
+[STARWOOD] Parsing Sheraton Lisle Hotel: √
+[STARWOOD] Parsing The Westin Lombard Yorktown Center: √
+[STARWOOD] Parsing Element Moline: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Chicago Northbrook Hotel: √
+[STARWOOD] Parsing Le Méridien Chicago - Oakbrook Center: √
+[STARWOOD] Parsing Four Points by Sheraton Peoria: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Chicago O'Hare: √
+[STARWOOD] Parsing Sheraton Chicago O'Hare Airport Hotel: √
+[STARWOOD] Parsing The Westin O'Hare: √
+[STARWOOD] Parsing Four Points by Sheraton Chicago O'Hare Airport: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Chicago North Shore: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Indianapolis: √
+[STARWOOD] Parsing Sheraton Indianapolis City Centre Hotel: √
+[STARWOOD] Parsing Sheraton Indianapolis Hotel at Keystone Crossing: √
+[STARWOOD] Parsing The Westin Indianapolis: √
+[STARWOOD] Parsing Sheraton Louisville Riverside Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton West Lafayette: √
+[STARWOOD] Parsing Sheraton Iowa City Hotel: √
+[STARWOOD] Parsing Element West Des Moines: √
+[STARWOOD] Parsing Sheraton West Des Moines Hotel: √
+[STARWOOD] Parsing Aloft Leawood-Overland Park: √
+[STARWOOD] Parsing Four Points by Sheraton Manhattan: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Overland Park Hotel at the Convention Center: √
+[STARWOOD] Parsing Aloft Wichita Northeast: √
+[STARWOOD] Parsing Four Points by Sheraton Lexington: √
+[STARWOOD] Parsing Aloft Louisville Downtown: √
+[STARWOOD] Parsing Aloft Louisville East: √
+[STARWOOD] Parsing Four Points by Sheraton Louisville Airport: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Metairie - New Orleans Hotel: √
+[STARWOOD] Parsing Aloft New Orleans Downtown: √
+[STARWOOD] Parsing Four Points by Sheraton French Quarter: √
+[STARWOOD] Parsing Le Méridien New Orleans: √
+[STARWOOD] Parsing Sheraton New Orleans Hotel: √
+[STARWOOD] Parsing The Westin New Orleans Canal Place: √
+[STARWOOD] Parsing W New Orleans - French Quarter: √
+[STARWOOD] Parsing Four Points by Sheraton Bangor Airport: √
+[STARWOOD] Parsing The Westin Portland Harborview: √
+[STARWOOD] Parsing The Westin Annapolis: √
+[STARWOOD] Parsing Sheraton Inner Harbor Hotel: √
+[STARWOOD] Parsing Sheraton College Park North Hotel: √
+[STARWOOD] Parsing Sheraton Columbia Town Center Hotel: √
+[STARWOOD] Parsing Aloft Arundel Mills: √
+[STARWOOD] Parsing Element Arundel Mills: √
+[STARWOOD] Parsing Aloft BWI Baltimore Washington International Airport: √
+[STARWOOD] Parsing Sheraton Baltimore Washington Airport Hotel - BWI: √
+[STARWOOD] Parsing The Westin Baltimore Washington Airport - BWI: √
+[STARWOOD] Parsing The Westin Washington National Harbor: √
+[STARWOOD] Parsing Sheraton Rockville Hotel: √
+[STARWOOD] Parsing Sheraton Silver Spring Hotel: √
+[STARWOOD] Parsing Sheraton Baltimore North Hotel: √
+[STARWOOD] Parsing Aloft Boston Seaport: √
+[STARWOOD] Parsing Element Boston Seaport: √
+[STARWOOD] Parsing Sheraton Boston Hotel: √
+[STARWOOD] Parsing The Liberty, a Luxury Collection Hotel, Boston: √
+[STARWOOD] Parsing The Westin Boston Waterfront: √
+[STARWOOD] Parsing The Westin Copley Place, Boston: √
+[STARWOOD] Parsing W Boston: √
+[STARWOOD] Parsing Le Méridien Cambridge-MIT: √
+[STARWOOD] Parsing Sheraton Commander Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Eastham Cape Cod: √
+[STARWOOD] Parsing Sheraton Framingham Hotel & Conference Center: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Lexington: √
+[STARWOOD] Parsing Element Lexington: √
+[STARWOOD] Parsing Sheraton Needham Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Norwood: √
+[STARWOOD] Parsing Four Points by Sheraton Boston Logan Airport: √
+[STARWOOD] Parsing Sheraton Springfield Monarch Place Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Wakefield Boston Hotel & Conference Center: √
+[STARWOOD] Parsing The Westin Waltham Boston: √
+[STARWOOD] Parsing Sheraton Ann Arbor Hotel: √
+[STARWOOD] Parsing Aloft Detroit at The David Whitney: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Book Cadillac Detroit: √
+[STARWOOD] Parsing The Westin Detroit Metropolitan Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Kalamazoo: √
+[STARWOOD] Parsing Four Points by Sheraton Detroit Novi: √
+[STARWOOD] Parsing Sheraton Detroit Novi Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Detroit Metro Airport: √
+[STARWOOD] Parsing Sheraton Detroit Metro Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Saginaw: √
+[STARWOOD] Parsing The Westin Southfield Detroit: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Duluth Hotel: √
+[STARWOOD] Parsing The Westin Edina Galleria: √
+[STARWOOD] Parsing Aloft Minneapolis: √
+[STARWOOD] Parsing Hotel Ivy, a Luxury Collection Hotel, Minneapolis: √
+[STARWOOD] Parsing Le Méridien Chambers Minneapolis: √
+[STARWOOD] Parsing Sheraton Bloomington Hotel: √
+[STARWOOD] Parsing Sheraton Minneapolis Midtown Hotel: √
+[STARWOOD] Parsing The Westin Minneapolis: √
+[STARWOOD] Parsing W Minneapolis - The Foshay: √
+[STARWOOD] Parsing Sheraton Minneapolis West Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Mall of America Minneapolis Airport: √
+[STARWOOD] Parsing Sheraton St. Paul Woodbury Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Kansas City - Sports Complex: √
+[STARWOOD] Parsing Four Points by Sheraton Kansas City Airport: √
+[STARWOOD] Parsing Sheraton Kansas City Hotel at Crown Center: √
+[STARWOOD] Parsing Sheraton Suites Country Club Plaza: √
+[STARWOOD] Parsing The Westin Kansas City at Crown Center: √
+[STARWOOD] Parsing Sheraton Clayton Plaza Hotel St. Louis: √
+[STARWOOD] Parsing Sheraton Westport Chalet Hotel St. Louis: √
+[STARWOOD] Parsing Sheraton Westport Plaza Hotel St. Louis: √
+[STARWOOD] Parsing The Westin St. Louis: √
+[STARWOOD] Parsing Element Bozeman: √
+[STARWOOD] Parsing Aloft Omaha West: √
+[STARWOOD] Parsing Element Omaha Midtown Crossing: √
+[STARWOOD] Parsing Sheraton Omaha Hotel: √
+[STARWOOD] Parsing The Westin Lake Las Vegas Resort & Spa: √
+[STARWOOD] Parsing Element Las Vegas Summerlin: √
+[STARWOOD] Parsing Four Points by Sheraton Las Vegas East Flamingo: √
+[STARWOOD] Parsing SLS Las Vegas, a Tribute Portfolio Resort: √
+[STARWOOD] Parsing The Westin Las Vegas Hotel, Casino & Spa: √
+[STARWOOD] Parsing W Las Vegas: √
+[STARWOOD] Parsing Element Hanover - Lebanon: √
+[STARWOOD] Parsing Sheraton Portsmouth Harborside Hotel: √
+[STARWOOD] Parsing Sheraton Atlantic City Convention Center Hotel: √
+[STARWOOD] Parsing Sheraton Eatontown Hotel: √
+[STARWOOD] Parsing Sheraton Edison Hotel Raritan Center: √
+[STARWOOD] Parsing Element Ewing Princeton: √
+[STARWOOD] Parsing Element Harrison - Newark: √
+[STARWOOD] Parsing W Hoboken: √
+[STARWOOD] Parsing The Westin Jersey City Newport: √
+[STARWOOD] Parsing Sheraton Mahwah Hotel: √
+[STARWOOD] Parsing The Westin Governor Morris, Morristown: √
+[STARWOOD] Parsing Aloft Mount Laurel: √
+[STARWOOD] Parsing The Westin Mount Laurel: √
+[STARWOOD] Parsing Sheraton Parsippany Hotel: √
+[STARWOOD] Parsing The Westin Princeton at Forrestal Village: √
+[STARWOOD] Parsing Sheraton Lincoln Harbor Hotel: √
+[STARWOOD] Parsing Sheraton Albuquerque Airport Hotel: √
+[STARWOOD] Parsing Sheraton Albuquerque Uptown: √
+[STARWOOD] Parsing La Posada de Santa Fe, a Luxury Collection Resort & Spa: √
+[STARWOOD] Parsing Aloft New York Brooklyn: √
+[STARWOOD] Parsing Sheraton Brooklyn New York Hotel: √
+[STARWOOD] Parsing Aloft Buffalo Airport: √
+[STARWOOD] Parsing The Westin Buffalo: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton LaGuardia East Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton JFK Airport Hotel: √
+[STARWOOD] Parsing Aloft Long Island City-Manhattan View: √
+[STARWOOD] Parsing Four Points by Sheraton Long Island City/Queensboro Bridge: √
+[STARWOOD] Parsing 11 Howard, New York, a Member of Design Hotels™: √
+[STARWOOD] Parsing Aloft Harlem: √
+[STARWOOD] Parsing Aloft Manhattan Downtown - Financial District: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft New York Midtown: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Element New York Times Square West: √
+[STARWOOD] Parsing Four Points by Sheraton Manhattan Chelsea: √
+[STARWOOD] Parsing Four Points by Sheraton Manhattan Midtown West: √
+[STARWOOD] Parsing Four Points by Sheraton Manhattan SoHo Village: √
+[STARWOOD] Parsing Four Points by Sheraton Midtown - Times Square: √
+[STARWOOD] Parsing Four Points by Sheraton New York Downtown: √
+[STARWOOD] Parsing Gramercy Park Hotel, New York, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel Americano, New York, a Member of Design Hotels™: √
+[STARWOOD] Parsing Le Parker Méridien New York: √
+[STARWOOD] Parsing Sheraton New York Times Square Hotel: √
+[STARWOOD] Parsing Sheraton Tribeca New York Hotel: √
+[STARWOOD] Parsing The Chatwal, a Luxury Collection Hotel, New York City: √
+[STARWOOD] Parsing The St. Regis New York: √
+[STARWOOD] Parsing The Westin New York at Times Square: √
+[STARWOOD] Parsing The Westin New York Grand Central: √
+[STARWOOD] Parsing W New York: √
+[STARWOOD] Parsing W New York - Downtown: √
+[STARWOOD] Parsing W New York - Times Square: √
+[STARWOOD] Parsing W New York - Union Square: √
+[STARWOOD] Parsing Four Points by Sheraton Newburgh Stewart Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Niagara Falls: √
+[STARWOOD] Parsing Sheraton At The Falls Hotel, Niagara Falls, NY: √
+[STARWOOD] Parsing Four Points by Sheraton Plainview Long Island: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Syracuse Inner Harbor: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Syracuse University Hotel & Conference Center: √
+[STARWOOD] Parsing Sheraton Tarrytown Hotel: √
+[STARWOOD] Parsing Aloft Asheville Downtown: √
+[STARWOOD] Parsing Four Points by Sheraton Asheville Downtown: √
+[STARWOOD] Parsing Aloft Chapel Hill: √
+[STARWOOD] Parsing Sheraton Chapel Hill Hotel: √
+[STARWOOD] Parsing Aloft Charlotte Ballantyne: √
+[STARWOOD] Parsing Aloft Charlotte Uptown at the EpiCentre: √
+[STARWOOD] Parsing Four Points by Sheraton Charlotte: √
+[STARWOOD] Parsing Le Méridien Charlotte: √
+[STARWOOD] Parsing Sheraton Charlotte Airport Hotel: √
+[STARWOOD] Parsing Sheraton Charlotte Hotel: √
+[STARWOOD] Parsing The Ballantyne, a Luxury Collection Hotel, Charlotte: √
+[STARWOOD] Parsing The Westin Charlotte: √
+[STARWOOD] Parsing Aloft Durham Downtown: √
+[STARWOOD] Parsing Sheraton Imperial Hotel & Convention Center: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Greensboro at Four Seasons: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Raleigh Durham Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Charlotte - Pineville: √
+[STARWOOD] Parsing Aloft Raleigh: √
+[STARWOOD] Parsing Aloft Raleigh-Durham Airport Brier Creek: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Raleigh Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Fargo: √
+[STARWOOD] Parsing Element Fargo: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Beachwood: √
+[STARWOOD] Parsing The Westin Cincinnati: √
+[STARWOOD] Parsing Aloft Cleveland Downtown: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Cleveland Airport Hotel: √
+[STARWOOD] Parsing The Westin Cleveland Downtown: √
+[STARWOOD] Parsing Four Points by Sheraton Columbus - Polaris: √
+[STARWOOD] Parsing Four Points by Sheraton Columbus Ohio Airport: √
+[STARWOOD] Parsing Le Méridien Columbus, The Joseph: √
+[STARWOOD] Parsing Sheraton Columbus Hotel at Capitol Square: √
+[STARWOOD] Parsing Sheraton Suites Columbus: √
+[STARWOOD] Parsing The Westin Columbus: √
+[STARWOOD] Parsing Sheraton Suites Akron Cuyahoga Falls: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=4519): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Cincinnati North: √
+[STARWOOD] Parsing Aloft Westerville: √
+[STARWOOD] Parsing Sheraton Midwest City Hotel at the Reed Conference Center: √
+[STARWOOD] Parsing Aloft Oklahoma City Downtown - Bricktown: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Oklahoma City Quail Springs: √
+[STARWOOD] Parsing Sheraton Oklahoma City Downtown Hotel: √
+[STARWOOD] Parsing Aloft Tulsa: √
+[STARWOOD] Parsing Aloft Tulsa Downtown: √
+[STARWOOD] Parsing Aloft Hillsboro-Beaverton: √
+[STARWOOD] Parsing Aloft Portland Airport at Cascade Station: √
+[STARWOOD] Parsing Four Points by Sheraton Portland East: √
+[STARWOOD] Parsing Sheraton Portland Airport Hotel: √
+[STARWOOD] Parsing The Nines, a Luxury Collection Hotel, Portland: √
+[STARWOOD] Parsing The Westin Portland: √
+[STARWOOD] Parsing Sheraton Pittsburgh Airport Hotel: √
+[STARWOOD] Parsing Sheraton Erie Bayfront Hotel: √
+[STARWOOD] Parsing Sheraton Great Valley Hotel: √
+[STARWOOD] Parsing Sheraton Harrisburg Hershey Hotel: √
+[STARWOOD] Parsing Sheraton Valley Forge Hotel: √
+[STARWOOD] Parsing Sheraton Bucks County Hotel: √
+[STARWOOD] Parsing Aloft Philadelphia Airport: √
+[STARWOOD] Parsing Aloft Philadelphia Downtown: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Philadelphia Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Philadelphia City Center: √
+[STARWOOD] Parsing Four Points by Sheraton Philadelphia Northeast: √
+[STARWOOD] Parsing Le Méridien Philadelphia: √
+[STARWOOD] Parsing Sheraton Philadelphia Downtown Hotel: √
+[STARWOOD] Parsing Sheraton Philadelphia Society Hill Hotel: √
+[STARWOOD] Parsing Sheraton Philadelphia University City Hotel: √
+[STARWOOD] Parsing Sheraton Suites Philadelphia Airport: √
+[STARWOOD] Parsing The Westin Philadelphia: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Pittsburgh Hotel at Station Square: √
+[STARWOOD] Parsing The Westin Convention Center, Pittsburgh: √
+[STARWOOD] Parsing Four Points by Sheraton Scranton: √
+[STARWOOD] Parsing Four Points by Sheraton York: √
+[STARWOOD] Parsing Four Points by Sheraton Caguas Real Hotel & Casino: √
+[STARWOOD] Parsing The St. Regis Bahia Beach Resort, Puerto Rico: √
+[STARWOOD] Parsing Sheraton Old San Juan Hotel: √
+[STARWOOD] Parsing Sheraton Puerto Rico Hotel & Casino: √
+[STARWOOD] Parsing W Retreat & Spa - Vieques Island: √
+[STARWOOD] Parsing Sheraton Providence Airport Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Columbia Downtown: √
+[STARWOOD] Parsing Sheraton Columbia Downtown Hotel: √
+[STARWOOD] Parsing Aloft Greenville Downtown: √
+[STARWOOD] Parsing The Westin Poinsett, Greenville: √
+[STARWOOD] Parsing The Westin Hilton Head Island Resort & Spa: √
+[STARWOOD] Parsing Sheraton Broadway Plantation Resort Villas: √
+[STARWOOD] Parsing Sheraton Myrtle Beach Convention Center Hotel: √
+[STARWOOD] Parsing Aloft Charleston Airport & Convention Center: √
+[STARWOOD] Parsing Four Points by Sheraton Spartanburg: √
+[STARWOOD] Parsing Sheraton Sioux Falls & Convention Center: √
+[STARWOOD] Parsing Four Points by Sheraton Nashville - Brentwood: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Nashville-Cool Springs: √
+[STARWOOD] Parsing Four Points by Sheraton Knoxville Cumberland House Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Memphis - Southwind: √
+[STARWOOD] Parsing Four Points by Sheraton Memphis East: √
+[STARWOOD] Parsing Sheraton Memphis Downtown Hotel: √
+[STARWOOD] Parsing The Westin Memphis Beale Street: √
+[STARWOOD] Parsing Aloft Nashville West End: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Nashville Airport: √
+[STARWOOD] Parsing Sheraton Music City Hotel: √
+[STARWOOD] Parsing Sheraton Nashville Downtown Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Nashville: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Arlington Entertainment District: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Arlington Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Austin at The Domain: √
+[STARWOOD] Parsing Aloft Austin Downtown: √
+[STARWOOD] Parsing Aloft Austin Northwest: √
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=4577): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+[STARWOOD] Parsing Element Austin Downtown: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Austin Hotel at the Capitol: √
+[STARWOOD] Parsing The Westin Austin at The Domain: √
+[STARWOOD] Parsing The Westin Austin Downtown: √
+[STARWOOD] Parsing W Austin: √
+[STARWOOD] Parsing Aloft College Station: √
+[STARWOOD] Parsing Four Points by Sheraton College Station: √
+[STARWOOD] Parsing Four Points by Sheraton Dallas Fort Worth Airport North: √
+[STARWOOD] Parsing Aloft Corpus Christi: √
+[STARWOOD] Parsing Aloft Dallas Downtown: √
+[STARWOOD] Parsing Aloft Dallas Love Field: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Element Dallas Love Field: √
+[STARWOOD] Parsing Le Méridien Dallas by the Galleria: √
+[STARWOOD] Parsing Le Méridien Dallas, The Stoneleigh: √
+[STARWOOD] Parsing Sheraton Dallas Hotel: √
+[STARWOOD] Parsing Sheraton Dallas Hotel by the Galleria: √
+[STARWOOD] Parsing Sheraton Suites Market Center Dallas: √
+[STARWOOD] Parsing The Westin Dallas Downtown: √
+[STARWOOD] Parsing The Westin Dallas Park Central: √
+[STARWOOD] Parsing The Westin Galleria Dallas: √
+[STARWOOD] Parsing W Dallas - Victory: √
+[STARWOOD] Parsing Aloft El Paso Downtown: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Fort Worth Downtown Hotel: √
+[STARWOOD] Parsing Aloft Frisco: √
+[STARWOOD] Parsing Sheraton Stonebriar Hotel: √
+[STARWOOD] Parsing The Westin Stonebriar Hotel & Golf Club: √
+[STARWOOD] Parsing Four Points by Sheraton Galveston: √
+[STARWOOD] Parsing Sheraton Georgetown Texas Hotel & Conference Center: √
+[STARWOOD] Parsing Aloft Houston by the Galleria: √
+[STARWOOD] Parsing Aloft Houston Downtown: √
+[STARWOOD] Parsing Element Houston Vintage Park: √
+[STARWOOD] Parsing Four Points by Sheraton Houston - CITYCENTRE: √
+[STARWOOD] Parsing Four Points by Sheraton Houston Energy Corridor: √
+[STARWOOD] Parsing Four Points by Sheraton Houston Greenway Plaza: √
+[STARWOOD] Parsing Four Points by Sheraton Houston Hobby Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Houston Intercontinental Airport: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Houston Brookhollow Hotel: √
+[STARWOOD] Parsing Sheraton Houston West Hotel: √
+[STARWOOD] Parsing Sheraton North Houston at George Bush Intercontinental: √
+[STARWOOD] Parsing Sheraton Suites Houston Near The Galleria: √
+[STARWOOD] Parsing The St. Regis Houston: √
+[STARWOOD] Parsing The Westin Galleria Houston: √
+[STARWOOD] Parsing The Westin Houston Downtown: √
+[STARWOOD] Parsing The Westin Houston, Memorial City: √
+[STARWOOD] Parsing The Westin Oaks Houston at the Galleria: √
+[STARWOOD] Parsing Aloft DFW Airport North: √
+[STARWOOD] Parsing Aloft Las Colinas: √
+[STARWOOD] Parsing Element Dallas Fort Worth Airport North: √
+[STARWOOD] Parsing Sheraton DFW Airport Hotel: √
+[STARWOOD] Parsing The Westin Dallas Fort Worth Airport: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Katy Hotel & Conference Center: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton McAllen: √
+[STARWOOD] Parsing Sheraton McKinney Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Midland: √
+[STARWOOD] Parsing Aloft Plano: √
+[STARWOOD] Parsing Aloft Richardson: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft San Antonio Airport: √
+[STARWOOD] Parsing Four Points by Sheraton San Antonio Airport: √
+[STARWOOD] Parsing Sheraton Gunter Hotel San Antonio: √
+[STARWOOD] Parsing The St. Anthony, a Luxury Collection Hotel, San Antonio: √
+[STARWOOD] Parsing The Westin Riverwalk, San Antonio: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin at The Woodlands: √
+[STARWOOD] Parsing The St. Regis Deer Valley: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Salt Lake City Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Burlington Hotel: √
+[STARWOOD] Parsing The Equinox, a Luxury Collection Golf Resort & Spa, Vermont: √
+[STARWOOD] Parsing The Westin St. John Resort: √
+[STARWOOD] Parsing The Westin St. John Villas: √
+[STARWOOD] Parsing Sheraton Suites Old Town Alexandria: √
+[STARWOOD] Parsing The Westin Alexandria: √
+[STARWOOD] Parsing Le Méridien Arlington: √
+[STARWOOD] Parsing Sheraton Pentagon City Hotel: √
+[STARWOOD] Parsing The Westin Arlington Gateway: √
+[STARWOOD] Parsing The Westin Crystal City: √
+[STARWOOD] Parsing Aloft Dulles Airport North: √
+[STARWOOD] Parsing Aloft Chesapeake: √
+[STARWOOD] Parsing The Westin Tysons Corner: √
+[STARWOOD] Parsing Aloft Richmond West: √
+[STARWOOD] Parsing Sheraton Herndon Dulles Airport Hotel: √
+[STARWOOD] Parsing The Westin Washington Dulles Airport: √
+[STARWOOD] Parsing Sheraton Norfolk Waterside Hotel: √
+[STARWOOD] Parsing Sheraton Reston Hotel: √
+[STARWOOD] Parsing The Westin Reston Heights: √
+[STARWOOD] Parsing Four Points by Sheraton Richmond: √
+[STARWOOD] Parsing Four Points by Sheraton Richmond Airport: √
+[STARWOOD] Parsing The Westin Richmond: √
+[STARWOOD] Parsing Sheraton Roanoke Hotel & Conference Center: √
+[STARWOOD] Parsing Sheraton Tysons Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Virginia Beach Oceanfront: √
+[STARWOOD] Parsing Sheraton Virginia Beach Oceanfront Hotel: √
+[STARWOOD] Parsing The Westin Virginia Beach Town Center: √
+[STARWOOD] Parsing Aloft Winchester: √
+[STARWOOD] Parsing Sheraton Bellevue Hotel: √
+[STARWOOD] Parsing The Westin Bellevue: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Bellingham Hotel & Conference Center: √
+[STARWOOD] Parsing Four Points by Sheraton Seattle Airport South: √
+[STARWOOD] Parsing Aloft Redmond: √
+[STARWOOD] Parsing Element Redmond: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Downtown Seattle Center: √
+[STARWOOD] Parsing Sheraton Seattle Hotel: √
+[STARWOOD] Parsing The Westin Seattle: √
+[STARWOOD] Parsing W Seattle: √
+[STARWOOD] Parsing Four Points by Sheraton Charleston: √
+[STARWOOD] Parsing Sheraton Milwaukee Brookfield Hotel: √
+[STARWOOD] Parsing Aloft Green Bay: √
+[STARWOOD] Parsing Sheraton Madison Hotel: √
+[STARWOOD] Parsing Aloft Milwaukee Downtown: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Milwaukee North Shore: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Calgary University: √
+[STARWOOD] Parsing Element Calgary Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Calgary Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Hotel & Suites Calgary West: √
+[STARWOOD] Parsing Sheraton Cavalier Calgary Hotel: √
+[STARWOOD] Parsing Sheraton Suites Calgary Eau Claire: √
+[STARWOOD] Parsing The Westin Calgary: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=4017): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+[STARWOOD] Parsing Four Points by Sheraton Edmonton Gateway: √
+[STARWOOD] Parsing Four Points by Sheraton Edmonton South: √
+[STARWOOD] Parsing Four Points by Sheraton Edmonton West: √
+[STARWOOD] Parsing The Westin Edmonton: √
+[STARWOOD] Parsing Four Points by Sheraton Grande Prairie: √
+[STARWOOD] Parsing Four Points by Sheraton Edmonton International Airport: √
+[STARWOOD] Parsing Sheraton Red Deer Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Sherwood Park: √
+[STARWOOD] Parsing Element Vancouver Metrotown: √
+[STARWOOD] Parsing Four Points by Sheraton Kamloops: √
+[STARWOOD] Parsing Four Points by Sheraton Kelowna Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Prince George: √
+[STARWOOD] Parsing Four Points by Sheraton Vancouver Airport: √
+[STARWOOD] Parsing Sheraton Vancouver Airport Hotel: √
+[STARWOOD] Parsing The Westin Wall Centre, Vancouver Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Surrey: √
+[STARWOOD] Parsing Sheraton Vancouver Guildford Hotel: √
+[STARWOOD] Parsing Sheraton Vancouver Wall Centre: √
+[STARWOOD] Parsing The Westin Bayshore, Vancouver: √
+[STARWOOD] Parsing The Westin Grand, Vancouver: √
+[STARWOOD] Parsing Four Points by Sheraton Victoria Gateway: √
+[STARWOOD] Parsing The Westin Bear Mountain Golf Resort & Spa, Victoria: √
+[STARWOOD] Parsing The Westin Resort & Spa, Whistler: √
+[STARWOOD] Parsing Four Points by Sheraton Winnipeg International Airport: √
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=3086): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+[STARWOOD] Parsing Four Points by Sheraton Edmundston: √
+[STARWOOD] Parsing Four Points by Sheraton Moncton: √
+[STARWOOD] Parsing Sheraton Hotel Newfoundland: √
+[STARWOOD] Parsing Four Points by Sheraton Halifax: √
+[STARWOOD] Parsing The Westin Nova Scotian: √
+[STARWOOD] Parsing Four Points by Sheraton Barrie: √
+[STARWOOD] Parsing The Westin Trillium House, Blue Mountain: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Cambridge Kitchener, Ontario: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Hamilton Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Kingston: √
+[STARWOOD] Parsing Four Points by Sheraton London: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Mississauga Meadowvale: √
+[STARWOOD] Parsing Four Points by Sheraton Toronto Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Toronto Mississauga: √
+[STARWOOD] Parsing Four Points by Sheraton Niagara Falls Fallsview: √
+[STARWOOD] Parsing Sheraton on the Falls Hotel: √
+[STARWOOD] Parsing Sheraton Ottawa Hotel: √
+[STARWOOD] Parsing The Westin Ottawa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Parkway Toronto North Hotel & Suites: √
+[STARWOOD] Parsing Four Points by Sheraton St. Catharines Niagara Suites: √
+[STARWOOD] Parsing Sheraton Centre Toronto Hotel: √
+[STARWOOD] Parsing Sheraton Gateway Hotel in Toronto International Airport: √
+[STARWOOD] Parsing Sheraton Toronto Airport Hotel & Conference Centre: √
+[STARWOOD] Parsing The Westin Bristol Place Toronto Airport: √
+[STARWOOD] Parsing The Westin Harbour Castle, Toronto: √
+[STARWOOD] Parsing The Westin Prince, Toronto: √
+[STARWOOD] Parsing Aloft Vaughan Mills: √
+[STARWOOD] Parsing Element Vaughan Southwest: √
+[STARWOOD] Parsing Four Points by Sheraton Waterloo - Kitchener Hotel & Suites: √
+[STARWOOD] Parsing Four Points by Sheraton Hotel & Conference Centre Gatineau-Ottawa: √
+[STARWOOD] Parsing Sheraton Laval Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Lévis Convention Centre: √
+[STARWOOD] Parsing Le Westin Resort & Spa, Tremblant, Quebec: √
+[STARWOOD] Parsing Aloft Montreal Airport: √
+[STARWOOD] Parsing Hotel St. Paul, Montreal, a Member of Design Hotels™: √
+[STARWOOD] Parsing Le Centre Sheraton Montreal Hotel: √
+[STARWOOD] Parsing Le Méridien Versailles: √
+[STARWOOD] Parsing Le Westin Montreal: √
+[STARWOOD] Parsing Sheraton Montreal Airport Hotel: √
+[STARWOOD] Parsing W Montréal: √
+[STARWOOD] Parsing Four Points by Sheraton Québec Resort: √
+[STARWOOD] Parsing Four Points by Sheraton Regina: √
+[STARWOOD] Parsing Four Points by Sheraton Saskatoon: √
+[STARWOOD] Parsing Sheraton Cavalier Saskatoon Hotel: √
+[STARWOOD] Parsing The Westin Grand Cayman Seven Mile Beach Resort & Spa: √
+[STARWOOD] Parsing Four Points by Sheraton Havana: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Puntacana Village: √
+[STARWOOD] Parsing Sheraton Santo Domingo Hotel: √
+[STARWOOD] Parsing The Westin Puntacana Resort & Club: √
+[STARWOOD] Parsing Laluna, Grenada, a Member of Design Hotels™: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Grand Los Cabos Hacienda del Mar: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Los Cabos Resort Villas & Spa: √
+[STARWOOD] Parsing Hacienda Puerta Campeche, a Luxury Collection Hotel, Campeche: √
+[STARWOOD] Parsing Hacienda Uayamon, a Luxury Collection Hotel, Uayamon: √
+[STARWOOD] Parsing Sheraton Chihuahua Soberano: √
+[STARWOOD] Parsing Four Points by Sheraton Saltillo: √
+[STARWOOD] Parsing Boca Chica, Acapulco, a Member of Design Hotels™: √
+[STARWOOD] Parsing Aloft Guadalajara: √
+[STARWOOD] Parsing Casa Fayette, Guadalajara, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Guadalajara: √
+[STARWOOD] Parsing Sheraton Buganvilias Resort and Convention Center: √
+[STARWOOD] Parsing The Westin Resort & Spa, Puerto Vallarta: √
+[STARWOOD] Parsing Condesa df, Mexico City, a Member of Design Hotels™: √
+[STARWOOD] Parsing Distrito Capital, Mexico City, a Member of Design Hotels™: √
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=3738): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=12428): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+[STARWOOD] Parsing Las Alcobas, a Luxury Collection Hotel, Mexico City: √
+[STARWOOD] Parsing Le Méridien Mexico City: √
+[STARWOOD] Parsing Sheraton Mexico City Maria Isabel Hotel: √
+[STARWOOD] Parsing Sheraton Santa Fe, Mexico City: √
+[STARWOOD] Parsing The St. Regis Mexico City: √
+[STARWOOD] Parsing The Westin Santa Fe, Mexico City: √
+[STARWOOD] Parsing W Mexico City: √
+[STARWOOD] Parsing The St. Regis Punta Mita Resort: √
+[STARWOOD] Parsing W Punta de Mita: √
+[STARWOOD] Parsing Four Points by Sheraton Monterrey Linda Vista: √
+[STARWOOD] Parsing Four Points by Sheraton Galerias Monterrey: √
+[STARWOOD] Parsing Sheraton Ambassador Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Hotel Escondido, Puerto Escondido, a Member of Design Hotels™: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing La Purificadora, Puebla, a Member of Design Hotels™: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Queretaro Norte: √
+[STARWOOD] Parsing Aloft Cancun: √
+[STARWOOD] Parsing Four Points by Sheraton Cancun Centro: √
+[STARWOOD] Parsing The Westin Lagunamar Ocean Resort Villas & Spa, Cancun: √
+[STARWOOD] Parsing The Westin Resort & Spa, Cancun: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Azucar, Monte Gordo, a Member of Design Hotels™: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Maison Couturier, San Rafael, a Member of Design Hotels™: √
+[STARWOOD] Parsing Rosas & Xocolate, Mérida, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hacienda Santa Rosa, a Luxury Collection Hotel, Santa Rosa: √
+[STARWOOD] Parsing Hacienda Temozon, a Luxury Collection Hotel, Temozon Sur: √
+[STARWOOD] Parsing Hacienda San Jose, a Luxury Collection Hotel, San Jose: √
+[STARWOOD] Parsing The Westin Dawn Beach Resort & Spa, St. Maarten: √
+[STARWOOD] Parsing Sheraton Club des Pins Resort: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Oran: √
+[STARWOOD] Parsing Le Méridien Oran Hotel & Convention Centre: √
+[STARWOOD] Parsing Sheraton Oran Hotel: √
+[STARWOOD] Parsing Sheraton Djibouti: √
+[STARWOOD] Parsing Sheraton Montazah Hotel: √
+[STARWOOD] Parsing Le Méridien Cairo Airport: √
+[STARWOOD] Parsing Le Méridien Heliopolis: √
+[STARWOOD] Parsing Le Méridien Pyramids Hotel & Spa: √
+[STARWOOD] Parsing Sheraton Cairo Hotel & Casino: √
+[STARWOOD] Parsing The St. Regis Cairo: √
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=4091): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+[STARWOOD] Parsing Le Méridien Dahab Resort: √
+[STARWOOD] Parsing Sheraton Miramar Resort El Gouna: √
+[STARWOOD] Parsing The Westin Soma Bay Golf Resort & Spa: √
+[STARWOOD] Parsing Sheraton Soma Bay Resort: √
+[STARWOOD] Parsing Sheraton Sharm Hotel, Resort, Villas & Spa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Addis, a Luxury Collection Hotel, Addis Ababa: √
+[STARWOOD] Parsing Le Méridien Re-Ndama: √
+[STARWOOD] Parsing Sheraton Grand Conakry: √
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=4410): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+[STARWOOD] Parsing Tribe Hotel, Nairobi, a Member of Design Hotels™: √
+[STARWOOD] Parsing Four Points by Sheraton Tripoli: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The St. Regis Mauritius Resort: √
+[STARWOOD] Parsing Le Méridien Ile Maurice: √
+[STARWOOD] Parsing Shanti Maurice - A Nira Resort, St. Félix, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Turtle Bay Resort & Spa, Mauritius: √
+[STARWOOD] Parsing Sheraton Casablanca Hotel & Towers: √
+[STARWOOD] Parsing Le Méridien N'Fis: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Abuja Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Ikot Ekpene: √
+[STARWOOD] Parsing Le Méridien Ibom Hotel & Golf Resort: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Lagos: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Lagos Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Ogeyi Place: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Fisherman's Cove: √
+Warning: file_get_contents(http://www.starwoodhotels.com/preferredguest/property/overview/index.html?language=en_US&propertyID=1445): failed to open stream: HTTP request failed!  in /Users/trogg1/Desktop/open-source-hotel-db/generators/starwood/starwood.php on line 93
+x
+[STARWOOD] Parsing Ten Bompas Hotel, Johannesburg, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Pretoria Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Tunis Hotel: √
+[STARWOOD] Parsing Sheraton Kampala Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Parramatta: √
+[STARWOOD] Parsing Four Points by Sheraton Sydney, Central Park: √
+[STARWOOD] Parsing Four Points by Sheraton Sydney, Darling Harbour: √
+[STARWOOD] Parsing Sheraton on the Park: √
+[STARWOOD] Parsing The Old Clare Hotel, Chippendale, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Sydney: √
+[STARWOOD] Parsing Four Points by Sheraton Brisbane: √
+[STARWOOD] Parsing The Westin Brisbane: √
+[STARWOOD] Parsing W Brisbane: √
+[STARWOOD] Parsing Sheraton Grand Mirage Resort, Gold Coast: √
+[STARWOOD] Parsing Sheraton Mirage Port Douglas Resort: √
+[STARWOOD] Parsing Aloft Adelaide: √
+[STARWOOD] Parsing Sheraton Adelaide Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Melbourne Docklands: √
+[STARWOOD] Parsing Sheraton Melbourne Hotel: √
+[STARWOOD] Parsing The Westin Melbourne: √
+[STARWOOD] Parsing Aloft Perth: √
+[STARWOOD] Parsing Four Points by Sheraton Perth: √
+[STARWOOD] Parsing The Westin Perth: √
+[STARWOOD] Parsing Le Méridien Bhaluka Resort & Spa: √
+[STARWOOD] Parsing Four Points by Sheraton Dhaka, Gulshan: √
+[STARWOOD] Parsing Le Méridien Dhaka: √
+[STARWOOD] Parsing Sheraton Dhaka Banani Hotel: √
+[STARWOOD] Parsing The Westin Dhaka: √
+[STARWOOD] Parsing Le Méridien Paro, Riverfront: √
+[STARWOOD] Parsing Le Méridien Thimphu: √
+[STARWOOD] Parsing Le Méridien Angkor: √
+[STARWOOD] Parsing Sheraton Bengbu Longzihu Hotel: √
+[STARWOOD] Parsing Sheraton Chuzhou Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Hefei, Baohe: √
+[STARWOOD] Parsing Four Points by Sheraton Hefei, Shushan: √
+[STARWOOD] Parsing Sheraton Hefei Xinzhan Hotel: √
+[STARWOOD] Parsing The Westin Hefei Baohe: √
+[STARWOOD] Parsing Aloft Huangshan: √
+[STARWOOD] Parsing Four Points by Sheraton Huangshan, Tangkou Resort: √
+[STARWOOD] Parsing Sheraton Huangshan Tunxi Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Lu'an: √
+[STARWOOD] Parsing Four Points by Sheraton Maanshan: √
+[STARWOOD] Parsing Sheraton Wuhu Jiujiang Hotel: √
+[STARWOOD] Parsing Aloft Beijing, Haidian: √
+[STARWOOD] Parsing Four Points by Sheraton Beijing, Haidian Hotel & Serviced Apartments: √
+[STARWOOD] Parsing Sheraton Beijing Lize Hotel: √
+[STARWOOD] Parsing Sheraton Beijing West Mountain Resort: √
+[STARWOOD] Parsing Sheraton Grand Beijing Dongcheng Hotel: √
+[STARWOOD] Parsing The Great Wall Sheraton Hotel Beijing: √
+[STARWOOD] Parsing The St. Regis Beijing: √
+[STARWOOD] Parsing The Westin Beijing Chaoyang: √
+[STARWOOD] Parsing The Westin Beijing Financial Street: √
+[STARWOOD] Parsing W Beijing - Chang'an: √
+[STARWOOD] Parsing Four Points by Sheraton Chongqing, Dazu: √
+[STARWOOD] Parsing Four Points by Sheraton Chongqing, Liangjiang: √
+[STARWOOD] Parsing Le Méridien Chongqing, Nan'an: √
+[STARWOOD] Parsing Sheraton Chongqing Hotel: √
+[STARWOOD] Parsing The Westin Chongqing Liberation Square: √
+[STARWOOD] Parsing Sheraton Fuzhou Fuqing Hotel: √
+[STARWOOD] Parsing Le Méridien Fuzhou, Mawei: √
+[STARWOOD] Parsing Sheraton Fuzhou Hotel: √
+[STARWOOD] Parsing The Westin Fuzhou Minjiang: √
+[STARWOOD] Parsing Four Points by Sheraton Putian, Xianyou: √
+[STARWOOD] Parsing Sheraton Putian Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Anxi: √
+[STARWOOD] Parsing Sheraton Shishi Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Xiamen, Wuyuan Bay: √
+[STARWOOD] Parsing Le Méridien Xiamen: √
+[STARWOOD] Parsing Le Méridien Xiamen, Jimei: √
+[STARWOOD] Parsing Sheraton Xiamen Hotel: √
+[STARWOOD] Parsing The Westin Xiamen: √
+[STARWOOD] Parsing W Xiamen: √
+[STARWOOD] Parsing Four Points by Sheraton Zhangzhou, Dongshan: √
+[STARWOOD] Parsing Four Points by Sheraton Zhangzhou, Jiaomei: √
+[STARWOOD] Parsing Le Méridien Zhangzhou Resort, Changtai: √
+[STARWOOD] Parsing Aloft Dongguan Dynamic Town: √
+[STARWOOD] Parsing Aloft Dongguan Songshan Lake: √
+[STARWOOD] Parsing Sheraton Dongguan Hotel: √
+[STARWOOD] Parsing Aloft Nanhai, Foshan: √
+[STARWOOD] Parsing Element Foshan Nanhai: √
+[STARWOOD] Parsing Four Points by Sheraton Foshan, Jinshazhou: √
+[STARWOOD] Parsing Four Points by Sheraton Shunde: √
+[STARWOOD] Parsing Four Points by Sheraton Shunde, Chencun: √
+[STARWOOD] Parsing Le Méridien Foshan, Gaoming: √
+[STARWOOD] Parsing Sheraton Shunde Hotel: √
+[STARWOOD] Parsing Aloft Guangzhou Tianhe: √
+[STARWOOD] Parsing Aloft Guangzhou University Park: √
+[STARWOOD] Parsing Four Points by Sheraton Guangzhou, Dongpu: √
+[STARWOOD] Parsing Le Méridien Guangzhou, Pazhou: √
+[STARWOOD] Parsing Sheraton Grand Guangzhou Huadu Resort: √
+[STARWOOD] Parsing Sheraton Guangzhou Hotel: √
+[STARWOOD] Parsing Sheraton Guangzhou Nansha Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Guangzhou: √
+[STARWOOD] Parsing The Westin Pazhou: √
+[STARWOOD] Parsing W Guangzhou: √
+[STARWOOD] Parsing Four Points by Sheraton Guangdong, Heshan: √
+[STARWOOD] Parsing Four Points by Sheraton Heyuan Resort: √
+[STARWOOD] Parsing Le Méridien Huizhou: √
+[STARWOOD] Parsing Sheraton Bailuhu Resort, Huizhou: √
+[STARWOOD] Parsing Sheraton Huizhou Beach Resort: √
+[STARWOOD] Parsing Sheraton Qingyuan Lion Lake Resort: √
+[STARWOOD] Parsing Sheraton Shantou Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Shanwei: √
+[STARWOOD] Parsing Sheraton Shanwei Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Shenzhen: √
+[STARWOOD] Parsing Sheraton Dameisha Resort, Shenzhen: √
+[STARWOOD] Parsing Sheraton Shenzhen Futian Hotel: √
+[STARWOOD] Parsing The St. Regis Shenzhen: √
+[STARWOOD] Parsing The Westin Shenzhen Nanshan: √
+[STARWOOD] Parsing Four Points by Sheraton Yunfu, Xinxing: √
+[STARWOOD] Parsing Sheraton Zhanjiang Hotel: √
+[STARWOOD] Parsing Le Méridien Zhongshan, Gangkou: √
+[STARWOOD] Parsing Sheraton Zhongshan Hotel: √
+[STARWOOD] Parsing Le Meridien Zhuhai, Doumen: √
+[STARWOOD] Parsing Sheraton Zhuhai Hotel: √
+[STARWOOD] Parsing The St. Regis Zhuhai: √
+[STARWOOD] Parsing Four Points by Sheraton Guilin, Lingui: √
+[STARWOOD] Parsing Sheraton Guilin Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Bijie: √
+[STARWOOD] Parsing Four Points by Sheraton Guiyang, Huaxi: √
+[STARWOOD] Parsing Sheraton Guiyang Hotel: √
+[STARWOOD] Parsing The St. Regis Guiyang: √
+[STARWOOD] Parsing Sheraton Guizhou Renhuai Hotel: √
+[STARWOOD] Parsing Sheraton Zunyi Honghuagang Hotel: √
+[STARWOOD] Parsing Sheraton Haikou Resort: √
+[STARWOOD] Parsing The St. Regis Haikou: √
+[STARWOOD] Parsing The Westin Haikou: √
+[STARWOOD] Parsing The Westin Blue Bay Resort & Spa: √
+[STARWOOD] Parsing Aloft Sanya Haitang Bay: √
+[STARWOOD] Parsing Element Sanya Haitang Bay: √
+[STARWOOD] Parsing Four Points by Sheraton Sanya Haitang Bay: √
+[STARWOOD] Parsing The St. Regis Qingshui Bay Resort: √
+[STARWOOD] Parsing The St. Regis Sanya Haitang Bay Resort: √
+[STARWOOD] Parsing The Westin Sanya Haitang Bay Resort: √
+[STARWOOD] Parsing W Retreat Sanya - Haitang Bay: √
+[STARWOOD] Parsing Four Points by Sheraton Hainan, Sanya: √
+[STARWOOD] Parsing Sheraton Sanya Haitang Bay Resort: √
+[STARWOOD] Parsing The Royal Begonia, a Luxury Collection Resort, Sanya: √
+[STARWOOD] Parsing Sheraton Sanya Resort: √
+[STARWOOD] Parsing The St. Regis Sanya Yalong Bay Resort: √
+[STARWOOD] Parsing The Westin Shimei Bay Resort: √
+[STARWOOD] Parsing Four Points by Sheraton Shenzhou Peninsula: √
+[STARWOOD] Parsing Sheraton Shenzhou Peninsula Resort: √
+[STARWOOD] Parsing Le Méridien Shimei Bay Beach Resort & Spa: √
+[STARWOOD] Parsing Four Points by Sheraton Langfang, Guan: √
+[STARWOOD] Parsing Sheraton Langfang Chaobai River Hotel: √
+[STARWOOD] Parsing Le Méridien Qinhuangdao Resort, Beidaihe: √
+[STARWOOD] Parsing Sheraton Qinhuangdao Beidaihe Hotel: √
+[STARWOOD] Parsing Sheraton Shijiazhuang Zhengding: √
+[STARWOOD] Parsing Element Chongli: √
+[STARWOOD] Parsing Sheraton Daqing Hotel: √
+[STARWOOD] Parsing Sheraton Harbin Xiangfang Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Kaifeng: √
+[STARWOOD] Parsing Four Points by Sheraton Luohe: √
+[STARWOOD] Parsing Sheraton Luoyang Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Xinxiang: √
+[STARWOOD] Parsing Aloft Zhengzhou Shangjie: √
+[STARWOOD] Parsing Aloft Zhengzhou Zhengdong New District: √
+[STARWOOD] Parsing Le Méridien Zhengzhou: √
+[STARWOOD] Parsing Sheraton Grand Zhengzhou Hotel: √
+[STARWOOD] Parsing The Westin Zhengzhou Longhu: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Wuhan, Aviation Development Zone: √
+[STARWOOD] Parsing Four Points by Sheraton Wuhan, Jiangxia: √
+[STARWOOD] Parsing Sheraton Wuhan Hankou Hotel: √
+[STARWOOD] Parsing The Westin Wuhan Wuchang: √
+[STARWOOD] Parsing Sheraton Changde Wuling Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Changsha, Meixi Lake: √
+[STARWOOD] Parsing Le Méridien Changsha, Meixi Lake: √
+[STARWOOD] Parsing Meixi Lake Hotel, a Luxury Collection Hotel, Changsha: √
+[STARWOOD] Parsing Sheraton Changsha Hotel: √
+[STARWOOD] Parsing The St. Regis Changsha: √
+[STARWOOD] Parsing The Westin Changsha Yuhua: √
+[STARWOOD] Parsing W Changsha: √
+[STARWOOD] Parsing Four Points by Sheraton Hengyang: √
+[STARWOOD] Parsing Sheraton Xiangtan Hotel: √
+[STARWOOD] Parsing Le Méridien Yueyang Yangsha Lake Resort: √
+[STARWOOD] Parsing Sheraton Zhuzhou Hetang Hotel: √
+[STARWOOD] Parsing Sheraton Hohhot Hotel: √
+[STARWOOD] Parsing Sheraton Changzhou Wujin Hotel: √
+[STARWOOD] Parsing Sheraton Changzhou Xinbei Hotel: √
+[STARWOOD] Parsing Sheraton Jiangyin Hotel: √
+[STARWOOD] Parsing Sheraton Nanjing Kingsley Hotel & Towers: √
+[STARWOOD] Parsing The Grand Mansion, a Luxury Collection Hotel, Nanjing: √
+[STARWOOD] Parsing The St. Regis Nanjing: √
+[STARWOOD] Parsing The Westin Nanjing: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Element Suzhou Science and Technology Town: √
+[STARWOOD] Parsing Four Points by Sheraton Suzhou: √
+[STARWOOD] Parsing Four Points by Sheraton Suzhou, Wuzhong: √
+[STARWOOD] Parsing Four Points by Sheraton Taicang: √
+[STARWOOD] Parsing Le Méridien Suzhou, Wujiang Taihu: √
+[STARWOOD] Parsing The Suzhou Hotel, a Luxury Collection Hotel, Suzhou: √
+[STARWOOD] Parsing The Westin Suzhou Xiangcheng: √
+[STARWOOD] Parsing W Suzhou: √
+[STARWOOD] Parsing Sheraton Wuxi Binhu Hotel: √
+[STARWOOD] Parsing Aloft Yancheng: √
+[STARWOOD] Parsing Aloft Yangzhou Guangling: √
+[STARWOOD] Parsing Four Points by Sheraton Yangzhou, Hanjiang: √
+[STARWOOD] Parsing Le Méridien Yixing: √
+[STARWOOD] Parsing Sheraton Zhenjiang Hotel: √
+[STARWOOD] Parsing Sheraton Nanchang Hotel: √
+[STARWOOD] Parsing The Westin Nanchang: √
+[STARWOOD] Parsing Four Points by Sheraton Pingxiang: √
+[STARWOOD] Parsing Sheraton Changbaishan Resort: √
+[STARWOOD] Parsing The Westin Changbaishan Resort: √
+[STARWOOD] Parsing Four Points by Sheraton Changchun, Hi-Tech Zone: √
+[STARWOOD] Parsing Sheraton Changchun Jingyuetan Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Benxi: √
+[STARWOOD] Parsing Aloft Dalian: √
+[STARWOOD] Parsing Sheraton Dalian Xinghai Hotel: √
+[STARWOOD] Parsing The Castle Hotel, a Luxury Collection Hotel, Dalian: √
+[STARWOOD] Parsing The Westin Dalian Donggang: √
+[STARWOOD] Parsing Sheraton Jinzhou Hotel: √
+[STARWOOD] Parsing Le Méridien Shenyang, Heping: √
+[STARWOOD] Parsing Sheraton Shenyang South City Hotel: √
+[STARWOOD] Parsing W Shenyang: √
+[STARWOOD] Parsing Element Yinchuan Binhe: √
+[STARWOOD] Parsing Four Points by Sheraton Xining, Shuijingxiang: √
+[STARWOOD] Parsing Sheraton Xian Hotel: √
+[STARWOOD] Parsing Sheraton Xian North City Hotel: √
+[STARWOOD] Parsing The Westin Xian: √
+[STARWOOD] Parsing W Xian: √
+[STARWOOD] Parsing Aloft Haiyang: √
+[STARWOOD] Parsing Sheraton Jinan Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Qingdao, Chengyang: √
+[STARWOOD] Parsing Four Points by Sheraton Qingdao, West Coast: √
+[STARWOOD] Parsing Le Méridien Qingdao: √
+[STARWOOD] Parsing Le Méridien Qingdao West Coast Resort: √
+[STARWOOD] Parsing Sheraton Huangdao Hotel: √
+[STARWOOD] Parsing Sheraton Qingdao Jiaozhou Hotel: √
+[STARWOOD] Parsing Sheraton Qingdao Licang Hotel: √
+[STARWOOD] Parsing The St. Regis Qingdao: √
+[STARWOOD] Parsing The Westin Qingdao: √
+[STARWOOD] Parsing Sheraton Rizhao Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Tai'an: √
+[STARWOOD] Parsing Four Points by Sheraton Weifang: √
+[STARWOOD] Parsing Sheraton Yantai Golden Beach Resort: √
+[STARWOOD] Parsing Sheraton Zibo Hotel: √
+[STARWOOD] Parsing Aloft Shanghai Nanxiang: √
+[STARWOOD] Parsing Aloft Shanghai Zhangjiang Haike: √
+[STARWOOD] Parsing Four Points by Sheraton Shanghai, Daning: √
+[STARWOOD] Parsing Four Points by Sheraton Shanghai, Pudong: √
+[STARWOOD] Parsing Four Points by Sheraton Shanghai, Qingpu: √
+[STARWOOD] Parsing Le Méridien Shanghai, Jiading: √
+[STARWOOD] Parsing Le Méridien Shanghai, Minhang: √
+[STARWOOD] Parsing Le Méridien She Shan Shanghai: √
+[STARWOOD] Parsing Le Royal Méridien Shanghai: √
+[STARWOOD] Parsing Sheraton Grand Shanghai Pudong Hotel & Residences: √
+[STARWOOD] Parsing Sheraton Shanghai Chongming Hotel: √
+[STARWOOD] Parsing Sheraton Shanghai Hongkou Hotel: √
+[STARWOOD] Parsing Sheraton Shanghai Hongqiao Hotel: √
+[STARWOOD] Parsing Sheraton Shanghai Jiading Hotel: √
+[STARWOOD] Parsing Sheraton Shanghai Waigaoqiao Hotel: √
+[STARWOOD] Parsing The Hongta Hotel, a Luxury Collection Hotel, Shanghai: √
+[STARWOOD] Parsing The St. Regis Shanghai Jingan: √
+[STARWOOD] Parsing The Waterhouse at South Bund, Shanghai, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Bund Center, Shanghai: √
+[STARWOOD] Parsing Twelve at Hengshan, a Luxury Collection Hotel, Shanghai: √
+[STARWOOD] Parsing W Shanghai - The Bund: √
+[STARWOOD] Parsing Four Points by Sheraton Jinzhong: √
+[STARWOOD] Parsing Four Points by Sheraton Shuozhou: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Yuncheng: √
+[STARWOOD] Parsing Aloft Chengdu East Railway Station: √
+[STARWOOD] Parsing Aloft Chengdu Pixian: √
+[STARWOOD] Parsing Four Points by Sheraton Chengdu, Anren: √
+[STARWOOD] Parsing Four Points by Sheraton Chengdu, Hi-Tech Zone: √
+[STARWOOD] Parsing Four Points by Sheraton Chengdu, Pujiang Resort: √
+[STARWOOD] Parsing Sheraton Chengdu Hi-Tech Zone Hotel: √
+[STARWOOD] Parsing Sheraton Chengdu Lido Hotel: √
+[STARWOOD] Parsing The St. Regis Chengdu: √
+[STARWOOD] Parsing The Westin Chengdu Wuhou: √
+[STARWOOD] Parsing W Chengdu: √
+[STARWOOD] Parsing Sheraton Deyang Hotel: √
+[STARWOOD] Parsing Sheraton Jiuzhaigou Resort: √
+[STARWOOD] Parsing Le Méridien Emei Mountain Resort: √
+[STARWOOD] Parsing Sheraton Yibin Hotel: √
+[STARWOOD] Parsing Aloft Tianjin Beichen: √
+[STARWOOD] Parsing Element Tianjin Beichen: √
+[STARWOOD] Parsing Four Points by Sheraton Tianjin, Beichen: √
+[STARWOOD] Parsing Sheraton Tianjin Binhai Hotel: √
+[STARWOOD] Parsing Sheraton Tianjin Hotel: √
+[STARWOOD] Parsing The Astor Hotel, a Luxury Collection Hotel, Tianjin: √
+[STARWOOD] Parsing The St. Regis Tianjin: √
+[STARWOOD] Parsing The Westin Tianjin: √
+[STARWOOD] Parsing Four Points by Sheraton Lhasa: √
+[STARWOOD] Parsing The St. Regis Lhasa Resort: √
+[STARWOOD] Parsing Sheraton Urumqi Hotel: √
+[STARWOOD] Parsing Sheraton Grand Xishuangbanna Hotel: √
+[STARWOOD] Parsing The St. Regis Lijiang Resort: √
+[STARWOOD] Parsing Element Mile: √
+[STARWOOD] Parsing Sheraton Mile Hotel: √
+[STARWOOD] Parsing Le Méridien Tengchong: √
+[STARWOOD] Parsing Four Points by Sheraton Hangzhou, Binjiang: √
+[STARWOOD] Parsing Four Points by Sheraton Hangzhou, Yuhang: √
+[STARWOOD] Parsing Le Méridien Hangzhou, Binjiang: √
+[STARWOOD] Parsing Sheraton Grand Hangzhou Binjiang Hotel: √
+[STARWOOD] Parsing Sheraton Grand Hangzhou Wetland Park Resort: √
+[STARWOOD] Parsing Sheraton Qiandao Lake Resort: √
+[STARWOOD] Parsing The Azure Qiantang, a Luxury Collection Hotel, Hangzhou: √
+[STARWOOD] Parsing Sheraton Huzhou Hot Spring Resort: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Ningbo Cixi Hotel: √
+[STARWOOD] Parsing Sheraton Ningbo Hotel: √
+[STARWOOD] Parsing The Westin Ningbo: √
+[STARWOOD] Parsing Four Points by Sheraton Taizhou, Yuhuan: √
+[STARWOOD] Parsing Sheraton Wenling Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Wenzhou, Pingyang: √
+[STARWOOD] Parsing Sheraton Wenzhou Hotel: √
+[STARWOOD] Parsing The Westin Wenzhou: √
+[STARWOOD] Parsing Sheraton Zhoushan Hotel: √
+[STARWOOD] Parsing The Westin Zhujiajian Resort, Zhoushan: √
+[STARWOOD] Parsing Sheraton Resort & Spa, Tokoriki Island, Fiji: √
+[STARWOOD] Parsing Sheraton Denarau Villas: √
+[STARWOOD] Parsing Sheraton Fiji Resort: √
+[STARWOOD] Parsing The Westin Denarau Island Resort & Spa, Fiji: √
+[STARWOOD] Parsing Le Méridien Bora Bora: √
+[STARWOOD] Parsing The St. Regis Bora Bora Resort: √
+[STARWOOD] Parsing Le Méridien Tahiti: √
+[STARWOOD] Parsing Four Points by Sheraton Hong Kong, Tung Chung: √
+[STARWOOD] Parsing Le Méridien Cyberport: √
+[STARWOOD] Parsing Sheraton Hong Kong Hotel & Towers: √
+[STARWOOD] Parsing Sheraton Hong Kong Tung Chung Hotel: √
+[STARWOOD] Parsing W Hong Kong: √
+[STARWOOD] Parsing Four Points by Sheraton Vijayawada: √
+[STARWOOD] Parsing Sheraton Vijayawada Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Visakhapatnam: √
+[STARWOOD] Parsing Sheraton Bodh Gaya Hotel: √
+[STARWOOD] Parsing Aloft Goa Calangute: √
+[STARWOOD] Parsing W Goa: √
+[STARWOOD] Parsing Aloft Ahmedabad SG Road: √
+[STARWOOD] Parsing Four Points by Sheraton Ahmedabad: √
+[STARWOOD] Parsing Four Points by Sheraton Ahmedabad, SP Road: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Ahmedabad: √
+[STARWOOD] Parsing Sheraton Ahmedabad Hotel: √
+[STARWOOD] Parsing The Westin Gandhinagar Ahmedabad Road: √
+[STARWOOD] Parsing Four Points by Sheraton Vadodara: √
+[STARWOOD] Parsing ITC Grand Bharat, a Luxury Collection Retreat, Gurgaon, New Delhi Capital Region: √
+[STARWOOD] Parsing Le Méridien Delhi NCR, Gurgaon - NH8: √
+[STARWOOD] Parsing Le Méridien Gurgaon, Delhi NCR: √
+[STARWOOD] Parsing The Anya Hotel, Gurgaon, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Gurgaon, New Delhi: √
+[STARWOOD] Parsing W Delhi NCR - Gurgaon WTC: √
+[STARWOOD] Parsing The Westin Sohna Resort & Spa: √
+[STARWOOD] Parsing Four Points by Sheraton Sonmarg Resort: √
+[STARWOOD] Parsing Four Points by Sheraton Srinagar: √
+[STARWOOD] Parsing Le Méridien Srinagar: √
+[STARWOOD] Parsing Sheraton Srinagar Hotel: √
+[STARWOOD] Parsing Aloft Bengaluru Cessna Business Park: √
+[STARWOOD] Parsing Aloft Bengaluru International Airport: √
+[STARWOOD] Parsing Aloft Bengaluru Whitefield: √
+[STARWOOD] Parsing Four Points by Sheraton Bengaluru, Whitefield: √
+[STARWOOD] Parsing ITC Gardenia, a Luxury Collection Hotel, Bengaluru: √
+[STARWOOD] Parsing ITC Windsor, a Luxury Collection Hotel, Bengaluru: √
+[STARWOOD] Parsing Le Méridien Bangalore: √
+[STARWOOD] Parsing Sheraton Bengaluru Whitefield Hotel & Convention Center: √
+[STARWOOD] Parsing Sheraton Grand Bangalore Hotel at Brigade Gateway: √
+[STARWOOD] Parsing The Park Bangalore, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Bekal Resort & Spa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Kochi: √
+[STARWOOD] Parsing Four Points by Sheraton Thavanakkadavu Backwater Resort: √
+[STARWOOD] Parsing Four Points by Sheraton Bhopal: √
+[STARWOOD] Parsing Four Points by Sheraton Aurangabad: √
+[STARWOOD] Parsing Le Méridien Mahabaleshwar Resort & Spa: √
+[STARWOOD] Parsing Four Points by Sheraton Navi Mumbai, Vashi: √
+[STARWOOD] Parsing ITC Grand Central, a Luxury Collection Hotel, Mumbai: √
+[STARWOOD] Parsing ITC Maratha, a Luxury Collection Hotel, Mumbai: √
+[STARWOOD] Parsing The St. Regis Mumbai: √
+[STARWOOD] Parsing The Westin Mumbai Garden City: √
+[STARWOOD] Parsing W Mumbai: √
+[STARWOOD] Parsing Le Méridien Nagpur: √
+[STARWOOD] Parsing Four Points by Sheraton Hotel & Serviced Apartments, Pune: √
+[STARWOOD] Parsing Le Méridien Pimpri: √
+[STARWOOD] Parsing Le Méridien Pune: √
+[STARWOOD] Parsing The Westin Pune Koregaon Park: √
+[STARWOOD] Parsing Aloft New Delhi Aerocity: √
+[STARWOOD] Parsing Four Points by Sheraton New Delhi, Airport Highway: √
+[STARWOOD] Parsing ITC Maurya, a Luxury Collection Hotel, New Delhi: √
+[STARWOOD] Parsing Le Méridien New Delhi: √
+[STARWOOD] Parsing Sheraton New Delhi Hotel: √
+[STARWOOD] Parsing The Park New Delhi, a Member of Design Hotels™: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Amritsar: √
+[STARWOOD] Parsing Sheraton Ambala, Chandigarh Expressway Resort: √
+[STARWOOD] Parsing Four Points by Sheraton Jaipur, City Square: √
+[STARWOOD] Parsing ITC Rajputana, a Luxury Collection Hotel, Jaipur: √
+[STARWOOD] Parsing Le Méridien Jaipur: √
+[STARWOOD] Parsing The Westin Jaipur: √
+[STARWOOD] Parsing The Westin Pushkar Resort & Spa: √
+[STARWOOD] Parsing Aloft Chennai OMR – IT Expressway: √
+[STARWOOD] Parsing ITC Grand Chola, a Luxury Collection Hotel, Chennai: √
+[STARWOOD] Parsing Le Royal Méridien Chennai: √
+[STARWOOD] Parsing Sheraton Chennai East Coast Road Resort: √
+[STARWOOD] Parsing The Park Chennai, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Chennai Velachery: √
+[STARWOOD] Parsing Aloft Coimbatore Singanallur: √
+[STARWOOD] Parsing Le Méridien Coimbatore: √
+[STARWOOD] Parsing Four Points by Sheraton Tiruchirappalli: √
+[STARWOOD] Parsing Four Points by Sheraton Hyderabad: √
+[STARWOOD] Parsing ITC Kakatiya, a Luxury Collection Hotel, Hyderabad: √
+[STARWOOD] Parsing ITC Kohinoor, a Luxury Collection Hotel, Hyderabad: √
+[STARWOOD] Parsing Sheraton Hyderabad Hotel: √
+[STARWOOD] Parsing The Park Hyderabad, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Hyderabad Mindspace: √
+[STARWOOD] Parsing Four Points by Sheraton Agra: √
+[STARWOOD] Parsing ITC Mughal, a Luxury Collection Hotel, Agra: √
+[STARWOOD] Parsing Four Points by Sheraton Lucknow, Faizabad Road: √
+[STARWOOD] Parsing Sheraton Lucknow Hotel: √
+[STARWOOD] Parsing Le Méridien Delhi NCR, Noida: √
+[STARWOOD] Parsing Four Points by Sheraton Dehradun: √
+[STARWOOD] Parsing The Westin Rishikesh Resort & Spa: √
+[STARWOOD] Parsing ITC Royal Bengal, a Luxury Collection Hotel, Kolkata: √
+[STARWOOD] Parsing ITC Sonar, a Luxury Collection Hotel, Kolkata: √
+[STARWOOD] Parsing The Park Kolkata, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Kolkata Rajarhat: √
+[STARWOOD] Parsing W Retreat & Spa Bali - Seminyak: √
+[STARWOOD] Parsing Le Méridien Bali Jimbaran: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Bali, Kuta: √
+[STARWOOD] Parsing Sheraton Bali Kuta Resort: √
+[STARWOOD] Parsing The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali: √
+[STARWOOD] Parsing The St. Regis Bali Resort: √
+[STARWOOD] Parsing The Westin Resort Nusa Dua, Bali: √
+[STARWOOD] Parsing Four Points by Sheraton Bali, Seminyak: √
+[STARWOOD] Parsing Aloft Bali Ubud: √
+[STARWOOD] Parsing Element Bali Ubud: √
+[STARWOOD] Parsing Four Points by Sheraton Bali, Ubud: √
+[STARWOOD] Parsing The Westin Ubud Resort & Spa: √
+[STARWOOD] Parsing Four Points by Sheraton Surabaya: √
+[STARWOOD] Parsing Sheraton Surabaya Hotel & Towers: √
+[STARWOOD] Parsing Aloft Jakarta Kebon Jeruk: √
+[STARWOOD] Parsing Aloft Jakarta Simatupang: √
+[STARWOOD] Parsing Aloft Jakarta Wahid Hasyim: √
+[STARWOOD] Parsing Four Points by Sheraton Jakarta, Thamrin: √
+[STARWOOD] Parsing Keraton at The Plaza, a Luxury Collection Hotel, Jakarta: √
+[STARWOOD] Parsing Le Méridien Jakarta: √
+[STARWOOD] Parsing Sheraton Bandara Hotel: √
+[STARWOOD] Parsing Sheraton Grand Jakarta Gandaria City Hotel: √
+[STARWOOD] Parsing The St. Regis Jakarta: √
+[STARWOOD] Parsing The Westin Jakarta: √
+[STARWOOD] Parsing The Hermitage, a Tribute Portfolio Hotel: √
+[STARWOOD] Parsing Sheraton Lampung Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Manado: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Bintan, Lagoi Bay: √
+[STARWOOD] Parsing Four Points by Sheraton Makassar: √
+[STARWOOD] Parsing Four Points by Sheraton Bandung: √
+[STARWOOD] Parsing Sheraton Bandung Hotel & Towers: √
+[STARWOOD] Parsing Sheraton Senggigi Beach Resort: √
+[STARWOOD] Parsing Sheraton Mustika Yogyakarta Resort & Spa: √
+[STARWOOD] Parsing The Westin Nagoya Castle: √
+[STARWOOD] Parsing Sheraton Grande Tokyo Bay Hotel: √
+[STARWOOD] Parsing Sheraton Grand Hiroshima Hotel: √
+[STARWOOD] Parsing The Westin Rusutsu Resort: √
+[STARWOOD] Parsing Sheraton Hokkaido Kiroro Resort: √
+[STARWOOD] Parsing The Kiroro, a Tribute Portfolio Hotel, Hokkaido: √
+[STARWOOD] Parsing The Westin Awaji Island Resort & Conference Center: √
+[STARWOOD] Parsing Kobe Bay Sheraton Hotel & Towers: √
+[STARWOOD] Parsing Yokohama Bay Sheraton Hotel & Towers: √
+[STARWOOD] Parsing Suiran, a Luxury Collection Hotel, Kyoto: √
+[STARWOOD] Parsing The Westin Miyako Kyoto: √
+[STARWOOD] Parsing The Westin Sendai: √
+[STARWOOD] Parsing Sheraton Grande Ocean Resort: √
+[STARWOOD] Parsing Sheraton Okinawa Sunmarina Resort: √
+[STARWOOD] Parsing Sheraton Miyako Hotel Osaka: √
+[STARWOOD] Parsing The St. Regis Osaka: √
+[STARWOOD] Parsing The Westin Osaka: √
+[STARWOOD] Parsing The Prince Gallery Tokyo Kioicho, a Luxury Collection Hotel: √
+[STARWOOD] Parsing The Westin Tokyo: √
+[STARWOOD] Parsing Sheraton Miyako Hotel Tokyo: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Chosun, Busan: √
+[STARWOOD] Parsing Sheraton Daegu Hotel: √
+[STARWOOD] Parsing Nest Hotel, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Grand Incheon Hotel: √
+[STARWOOD] Parsing Aloft Seoul Gangnam: √
+[STARWOOD] Parsing Aloft Seoul Myeongdong: √
+[STARWOOD] Parsing Four Points by Sheraton Seoul, Gangnam: √
+[STARWOOD] Parsing Four Points by Sheraton Seoul, Namsan: √
+[STARWOOD] Parsing GLAD Hotel Yeouido, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Grande Walkerhill: √
+[STARWOOD] Parsing Sheraton Seoul D Cube City Hotel: √
+[STARWOOD] Parsing Sheraton Seoul Palace Gangnam Hotel: √
+[STARWOOD] Parsing The Westin Chosun Seoul: √
+[STARWOOD] Parsing W Seoul - Walkerhill: √
+[STARWOOD] Parsing Sheraton Grand Macao Hotel, Cotai Central: √
+[STARWOOD] Parsing The St. Regis Macao, Cotai Central: √
+[STARWOOD] Parsing Sheraton Nusajaya Medini Hotel: √
+[STARWOOD] Parsing Le Méridien Kota Kinabalu: √
+[STARWOOD] Parsing Aloft Kuala Lumpur Sentral: √
+[STARWOOD] Parsing Element Kuala Lumpur: √
+[STARWOOD] Parsing Four Points by Sheraton Kuala Lumpur, Chinatown: √
+[STARWOOD] Parsing Le Méridien Kuala Lumpur: √
+[STARWOOD] Parsing Sheraton Imperial Kuala Lumpur Hotel: √
+[STARWOOD] Parsing The St. Regis Kuala Lumpur: √
+[STARWOOD] Parsing The Westin Kuala Lumpur: √
+[STARWOOD] Parsing W Kuala Lumpur: √
+[STARWOOD] Parsing Aloft Langkawi Pantai Tengah: √
+[STARWOOD] Parsing The Andaman, a Luxury Collection Resort, Langkawi: √
+[STARWOOD] Parsing The St. Regis Langkawi: √
+[STARWOOD] Parsing The Westin Langkawi Resort & Spa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Penang: √
+[STARWOOD] Parsing The Westin Desaru Resort: √
+[STARWOOD] Parsing Sheraton Petaling Jaya Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Puchong: √
+[STARWOOD] Parsing Le Méridien Putrajaya: √
+[STARWOOD] Parsing Four Points by Sheraton Sandakan: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing W Maldives: √
+[STARWOOD] Parsing Sheraton Maldives Full Moon Resort & Spa: √
+[STARWOOD] Parsing The St. Regis Maldives Vommuli Resort: √
+[STARWOOD] Parsing Sheraton Yangon Hotel: √
+[STARWOOD] Parsing Aloft Kathmandu Thamel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Kathmandu Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton New Caledonia Deva Resort & Spa: √
+[STARWOOD] Parsing Le Méridien Ile des Pins: √
+[STARWOOD] Parsing Le Méridien Nouméa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Cebu Mactan Resort: √
+[STARWOOD] Parsing Sheraton Manila Hotel: √
+[STARWOOD] Parsing The Westin Manila Bayshore: √
+[STARWOOD] Parsing The Westin Manila Sonata Place: √
+[STARWOOD] Parsing Sheraton Samoa Aggie Grey's Hotel & Bungalows: √
+[STARWOOD] Parsing Sheraton Samoa Aggie Grey's Resort: √
+[STARWOOD] Parsing Four Points by Sheraton Singapore, Riverview: √
+[STARWOOD] Parsing Le Méridien Singapore, Sentosa: √
+[STARWOOD] Parsing New Majestic Hotel, Singapore, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Towers Singapore: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The St. Regis Singapore: √
+[STARWOOD] Parsing The Westin Singapore: √
+[STARWOOD] Parsing W Singapore - Sentosa Cove: √
+[STARWOOD] Parsing Wanderlust, Singapore, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Colombo Hotel: √
+[STARWOOD] Parsing Sheraton Kosgoda Turtle Beach Resort: √
+[STARWOOD] Parsing Le Méridien Hsinchu: √
+[STARWOOD] Parsing Element Hualien: √
+[STARWOOD] Parsing Aloft Hualien: √
+[STARWOOD] Parsing The Westin Hualien: √
+[STARWOOD] Parsing Le Méridien Hualien Resort: √
+[STARWOOD] Parsing Aloft Kinmen: √
+[STARWOOD] Parsing Sheraton Kinmen Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Penghu: √
+[STARWOOD] Parsing Four Points by Sheraton Linkou: √
+[STARWOOD] Parsing Four Points by Sheraton Taipei, Zhonghe: √
+[STARWOOD] Parsing Le Méridien Taichung: √
+[STARWOOD] Parsing Four Points by Sheraton Tainan: √
+[STARWOOD] Parsing Aloft Taipei Beitou: √
+[STARWOOD] Parsing Aloft Taipei Zhongshan: √
+[STARWOOD] Parsing Le Méridien Taipei: √
+[STARWOOD] Parsing Sheraton Grand Taipei Hotel: √
+[STARWOOD] Parsing The Westin Taipei: √
+[STARWOOD] Parsing W Taipei: √
+[STARWOOD] Parsing Sheraton Taitung Hotel: √
+[STARWOOD] Parsing The Westin Tashee Resort, Taoyuan: √
+[STARWOOD] Parsing Le Méridien Yilan Beach Resort & Spa: √
+[STARWOOD] Parsing The Westin Yilan Resort: √
+[STARWOOD] Parsing Sheraton Hsinchu Hotel: √
+[STARWOOD] Parsing Aloft Bangkok Sukhumvit 11: √
+[STARWOOD] Parsing Four Points by Sheraton Bangkok, Sukhumvit 15: √
+[STARWOOD] Parsing Le Méridien Bangkok: √
+[STARWOOD] Parsing Plaza Athénée Bangkok, A Royal Méridien Hotel: √
+[STARWOOD] Parsing Royal Orchid Sheraton Hotel & Towers: √
+[STARWOOD] Parsing Sheraton Grande Sukhumvit, a Luxury Collection Hotel, Bangkok: √
+[STARWOOD] Parsing The St. Regis Bangkok: √
+[STARWOOD] Parsing The Westin Grande Sukhumvit, Bangkok: √
+[STARWOOD] Parsing W Bangkok: √
+[STARWOOD] Parsing Le Méridien Chiang Mai: √
+[STARWOOD] Parsing Le Méridien Chiang Rai Resort, Thailand: √
+[STARWOOD] Parsing Sheraton Hua Hin Resort & Spa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Koh Samui Resort & Spa: √
+[STARWOOD] Parsing Sheraton Samui Resort: √
+[STARWOOD] Parsing Vana Belle, a Luxury Collection Resort, Koh Samui: √
+[STARWOOD] Parsing W Retreat Koh Samui: √
+[STARWOOD] Parsing Le Méridien Phuket Beach Resort: √
+[STARWOOD] Parsing Sheraton Phuket Grand Bay Resort: √
+[STARWOOD] Parsing Sheraton Phuket Kalim Beach Resort: √
+[STARWOOD] Parsing The Naka Island, a Luxury Collection Resort & Spa, Phuket: √
+[STARWOOD] Parsing The Westin Siray Bay Resort & Spa, Phuket: √
+[STARWOOD] Parsing W Retreat Phuket - Phang Nga Bay: √
+[STARWOOD] Parsing Sheraton Hua Hin Pranburi Villas: √
+[STARWOOD] Parsing Le Méridien Suvarnabhumi, Bangkok Golf Resort & Spa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Danang: √
+[STARWOOD] Parsing Sheraton Danang Resort: √
+[STARWOOD] Parsing Sheraton Ha Long Bay Hotel: √
+[STARWOOD] Parsing Sheraton Hanoi Hotel: √
+[STARWOOD] Parsing The Westin Hanoi: √
+[STARWOOD] Parsing Le Méridien Saigon: √
+[STARWOOD] Parsing Sheraton Saigon Hotel & Towers: √
+[STARWOOD] Parsing Sheraton Nha Trang Hotel & Spa: √
+[STARWOOD] Parsing Sheraton Phu Quoc Resort: √
+[STARWOOD] Parsing Sheraton Hoi An Tam Ky Resort: √
+[STARWOOD] Parsing Sheraton Cordoba Hotel: √
+[STARWOOD] Parsing Sheraton Iguazú Resort & Spa: √
+[STARWOOD] Parsing Sheraton Mendoza Hotel: √
+[STARWOOD] Parsing Park Tower, a Luxury Collection Hotel, Buenos Aires: √
+[STARWOOD] Parsing Sheraton Buenos Aires Hotel & Convention Center: √
+[STARWOOD] Parsing Sheraton Libertador Hotel: √
+[STARWOOD] Parsing Sheraton Mar del Plata Hotel: √
+[STARWOOD] Parsing Sheraton Pilar Hotel & Convention Center: √
+[STARWOOD] Parsing Sheraton Salta Hotel: √
+[STARWOOD] Parsing Sheraton Tucuman Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Insólito Boutique Hotel, Buzios, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton da Bahia Hotel, Salvador: √
+[STARWOOD] Parsing Sheraton Vitoria Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Curitiba: √
+[STARWOOD] Parsing Sheraton Reserva do Paiva Hotel & Convention Center, Recife: √
+[STARWOOD] Parsing Four Points by Sheraton Macaé: √
+[STARWOOD] Parsing Sheraton Barra Rio de Janeiro Hotel: √
+[STARWOOD] Parsing Sheraton Grand Rio Hotel & Resort: √
+[STARWOOD] Parsing Sheraton Porto Alegre Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Sao Paulo WTC Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Los Angeles: √
+[STARWOOD] Parsing Four Points by Sheraton Santiago: √
+[STARWOOD] Parsing San Cristobal Tower, a Luxury Collection Hotel, Santiago: √
+[STARWOOD] Parsing Sheraton Santiago Hotel and Convention Center: √
+[STARWOOD] Parsing W Santiago: √
+[STARWOOD] Parsing Sheraton Miramar Hotel & Convention Center: √
+[STARWOOD] Parsing Four Points by Sheraton Barranquilla: √
+[STARWOOD] Parsing Aloft Bogota Airport: √
+[STARWOOD] Parsing Four Points by Sheraton Bogota: √
+[STARWOOD] Parsing Sheraton Bogota Hotel: √
+[STARWOOD] Parsing W Bogota Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Cali: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Medellin: √
+[STARWOOD] Parsing The Westin Golf Resort & Spa, Playa Conchal: √
+[STARWOOD] Parsing Sheraton San Jose Hotel, Costa Rica: √
+[STARWOOD] Parsing Aloft San Jose Hotel, Costa Rica: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Guayaquil Hotel: √
+[STARWOOD] Parsing Sheraton Quito Hotel: √
+[STARWOOD] Parsing Sheraton Presidente San Salvador Hotel: √
+[STARWOOD] Parsing The Westin Camino Real, Guatemala: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Panama: √
+[STARWOOD] Parsing Le Méridien Panama: √
+[STARWOOD] Parsing Sheraton Grand Panama: √
+[STARWOOD] Parsing The Westin Panama: √
+[STARWOOD] Parsing The Westin Playa Bonita Panama: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Bijao Beach Resort: √
+[STARWOOD] Parsing Aloft Asuncion: √
+[STARWOOD] Parsing Sheraton Asuncion Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Palacio del Inka, a Luxury Collection Hotel, Cusco: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Miraflores: √
+[STARWOOD] Parsing Sheraton Lima Hotel & Convention Center: √
+[STARWOOD] Parsing The Westin Lima Hotel & Convention Center: √
+[STARWOOD] Parsing Hotel Paracas, a Luxury Collection Resort, Paracas: √
+[STARWOOD] Parsing Tambo del Inka, a Luxury Collection Resort & Spa, Valle Sagrado: √
+[STARWOOD] Parsing Sheraton Colonia Golf & Spa Resort: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Montevideo: √
+[STARWOOD] Parsing Sheraton Montevideo Hotel: √
+[STARWOOD] Parsing Sheraton Tirana Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Panoramahaus Dornbirn: √
+[STARWOOD] Parsing LOISIUM Wine & Spa Resort Südsteiermark, a Member of Design Hotels™: √
+[STARWOOD] Parsing Schloss Fuschl, a Luxury Collection Resort & Spa, Fuschlsee-Salzburg: √
+[STARWOOD] Parsing Sheraton Fuschlsee-Salzburg, Hotel Jagdhof: √
+[STARWOOD] Parsing Hotel Zhero - Ischgl/Kappl, a Member of Design Hotels™: √
+[STARWOOD] Parsing LOISIUM Wine & Spa Resort Langenlois, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel Goldener Hirsch, a Luxury Collection Hotel, Salzburg: √
+[STARWOOD] Parsing Sheraton Salzburg Hotel: √
+[STARWOOD] Parsing Das Triest, Vienna, a Member of Design Hotels™: √
+[STARWOOD] Parsing DO & CO Hotel Vienna, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel Bristol, a Luxury Collection Hotel, Vienna: √
+[STARWOOD] Parsing Hotel Imperial, a Luxury Collection Hotel, Vienna: √
+[STARWOOD] Parsing Le Méridien Vienna: √
+[STARWOOD] Parsing The Guesthouse Vienna, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Baku Airport: √
+[STARWOOD] Parsing Aloft Brussels Schuman: √
+[STARWOOD] Parsing Four Points by Sheraton Brussels: √
+[STARWOOD] Parsing Sheraton Brussels Airport Hotel: √
+[STARWOOD] Parsing Sheraton Brussels Hotel: √
+[STARWOOD] Parsing Sense Hotel Sofia, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sofia Hotel Balkan, a Luxury Collection Hotel, Sofia: √
+[STARWOOD] Parsing Sheraton Dubrovnik Riviera Hotel: √
+[STARWOOD] Parsing Le Méridien Lav, Split: √
+[STARWOOD] Parsing Sheraton Zagreb Hotel: √
+[STARWOOD] Parsing The Westin Zagreb: √
+[STARWOOD] Parsing Le Méridien Limassol Spa & Resort: √
+[STARWOOD] Parsing Augustine, a Luxury Collection Hotel, Prague: √
+[STARWOOD] Parsing Sheraton Prague Charles Square Hotel: √
+[STARWOOD] Parsing Klaus K, Helsinki, a Member of Design Hotels™: √
+[STARWOOD] Parsing Vertigo Hotel, Dijon, a Member of Design Hotels™: √
+[STARWOOD] Parsing Le Méridien Nice: √
+[STARWOOD] Parsing Hotel de NELL, Paris, a Member of Design Hotels™: √
+[STARWOOD] Parsing La Maison Champs Elysées, Paris, a Member of Design Hotels™: √
+[STARWOOD] Parsing Le Dokhan's, a Tribute Portfolio Hotel, Paris: √
+[STARWOOD] Parsing Le Metropolitan, a Tribute Portfolio Hotel, Paris: √
+[STARWOOD] Parsing Le Méridien Etoile: √
+[STARWOOD] Parsing Les Bains, Paris,  a Member of Design Hotels™: √
+[STARWOOD] Parsing Prince de Galles, a Luxury Collection Hotel, Paris: √
+[STARWOOD] Parsing The Westin Paris - Vendôme: √
+[STARWOOD] Parsing W Paris - Opéra: √
+[STARWOOD] Parsing Sheraton Paris Airport Hotel & Conference Centre: √
+[STARWOOD] Parsing Hotel Sezz Saint-Tropez, a Member of Design Hotels™: √
+[STARWOOD] Parsing Le Méridien Batumi: √
+[STARWOOD] Parsing Sheraton Batumi Hotel: √
+[STARWOOD] Parsing Rooms Hotel Tbilisi, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Metechi Palace Hotel, Tbilisi: √
+[STARWOOD] Parsing Sheraton Berlin Grand Hotel Esplanade: √
+[STARWOOD] Parsing The Westin Grand, Berlin: √
+[STARWOOD] Parsing The Westin Bellevue, Dresden: √
+[STARWOOD] Parsing Sheraton Dusseldorf Airport Hotel: √
+[STARWOOD] Parsing Sheraton Essen Hotel: √
+[STARWOOD] Parsing Element Frankfurt Airport: √
+[STARWOOD] Parsing Le Méridien Parkhotel Frankfurt: √
+[STARWOOD] Parsing Sheraton Frankfurt Airport Hotel and Conference Center: √
+[STARWOOD] Parsing Sheraton Frankfurt Congress Hotel: √
+[STARWOOD] Parsing The Westin Grand Frankfurt: √
+[STARWOOD] Parsing Sheraton Offenbach Hotel: √
+[STARWOOD] Parsing Le Méridien Hamburg: √
+[STARWOOD] Parsing The Westin Hamburg: √
+[STARWOOD] Parsing Sheraton Hanover Pelikan Hotel: √
+[STARWOOD] Parsing Hotel Fuerstenhof, a Luxury Collection Hotel, Leipzig: √
+[STARWOOD] Parsing The Westin Leipzig: √
+[STARWOOD] Parsing Aloft Munich: √
+[STARWOOD] Parsing Four Points by Sheraton Munich Central: √
+[STARWOOD] Parsing Four Points by Sheraton Munich Olympiapark: √
+[STARWOOD] Parsing Le Méridien Munich: √
+[STARWOOD] Parsing Sheraton Munich Arabellapark Hotel: √
+[STARWOOD] Parsing Sheraton Munich Westpark Hotel: √
+[STARWOOD] Parsing The Westin Grand Munich: √
+[STARWOOD] Parsing Le Méridien Grand Hotel Nuremberg: √
+[STARWOOD] Parsing Sheraton Carlton Hotel Nuernberg: √
+[STARWOOD] Parsing Aloft Stuttgart: √
+[STARWOOD] Parsing Le Méridien Stuttgart: √
+[STARWOOD] Parsing Hotel Elephant, a Luxury Collection Hotel, Weimar: √
+[STARWOOD] Parsing Hotel Bachmair Weissach, a Member of Design Hotels™: √
+[STARWOOD] Parsing Fresh Hotel, Athens, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel Grande Bretagne, a Luxury Collection Hotel, Athens: √
+[STARWOOD] Parsing King George, a Luxury Collection Hotel, Athens: √
+[STARWOOD] Parsing New Hotel, Athens, a Member of Design Hotels™: √
+[STARWOOD] Parsing Periscope, Athens, a Member of Design Hotels™: √
+[STARWOOD] Parsing Semiramis Hotel, Athens, a Member of Design Hotels™: √
+[STARWOOD] Parsing Arion, a Luxury Collection Resort & Spa, Astir Palace, Athens: √
+[STARWOOD] Parsing The Westin Athens Astir Palace Beach Resort: √
+[STARWOOD] Parsing The Romanos, a Luxury Collection Resort, Costa Navarino: √
+[STARWOOD] Parsing The Westin Resort, Costa Navarino: √
+[STARWOOD] Parsing San Giorgio Mykonos, a Member of Design Hotels™: √
+[STARWOOD] Parsing EKIES All Senses Resort, Sithonia Halkidiki, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Met Hotel, Thessaloniki, a Member of Design Hotels™: √
+[STARWOOD] Parsing Blue Palace, a Luxury Collection Resort and Spa, Crete: √
+[STARWOOD] Parsing Santa Marina, a Luxury Collection Resort, Mykonos: √
+[STARWOOD] Parsing Sheraton Rhodes Resort: √
+[STARWOOD] Parsing Mystique, a Luxury Collection Hotel, Santorini: √
+[STARWOOD] Parsing Vedema, a Luxury Collection Resort, Santorini: √
+[STARWOOD] Parsing Four Points by Sheraton Kecskemet Hotel & Conference Center: √
+[STARWOOD] Parsing ION Adventure Hotel, Nesjavellir, a Member of Design Hotels™: √
+[STARWOOD] Parsing 101 Hotel, Reykjavik, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Athlone Hotel: √
+[STARWOOD] Parsing The Westin Dublin: √
+[STARWOOD] Parsing Four Points by Sheraton Bolzano: √
+[STARWOOD] Parsing C-Hotel & Spa, Cassago Brianza, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Catania Hotel & Conference Center: √
+[STARWOOD] Parsing Sheraton Lake Como Hotel: √
+[STARWOOD] Parsing Falisia, a Luxury Collection Resort & Spa, Portopiccolo: √
+[STARWOOD] Parsing The St. Regis Florence: √
+[STARWOOD] Parsing The Westin Excelsior, Florence: √
+[STARWOOD] Parsing Nira Montana, La Thuile, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Milan Malpensa Airport Hotel & Conference Centre: √
+[STARWOOD] Parsing Excelsior Hotel Gallia, a Luxury Collection Hotel, Milan: √
+[STARWOOD] Parsing Four Points by Sheraton Milan Center: √
+[STARWOOD] Parsing Sheraton Diana Majestic, Milan: √
+[STARWOOD] Parsing The Westin Palace, Milan: √
+[STARWOOD] Parsing W Milan: √
+[STARWOOD] Parsing Four Points by Sheraton Padova: √
+[STARWOOD] Parsing Cervo Hotel, Costa Smeralda Resort: √
+[STARWOOD] Parsing Hotel Cala di Volpe, a Luxury Collection Hotel, Costa Smeralda: √
+[STARWOOD] Parsing Hotel Pitrizza, a Luxury Collection Hotel, Costa Smeralda: √
+[STARWOOD] Parsing Hotel Romazzino, a Luxury Collection Hotel, Costa Smeralda: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing G-Rough, Rome, a Member of Design Hotels™: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Parco de' Medici Rome Hotel: √
+[STARWOOD] Parsing Sheraton Roma Hotel & Conference Center: √
+[STARWOOD] Parsing The St. Regis Rome: √
+[STARWOOD] Parsing The Westin Excelsior, Rome: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Hotel Danieli, a Luxury Collection Hotel, Venice: √
+[STARWOOD] Parsing PalazzinaG, Venice, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Gritti Palace, a Luxury Collection Hotel, Venice: √
+[STARWOOD] Parsing The Westin Europa & Regina, Venice: √
+[STARWOOD] Parsing The St. Regis Astana: √
+[STARWOOD] Parsing Le Méridien St. Julians Hotel & Spa: √
+[STARWOOD] Parsing The Westin Dragonara Resort, Malta: √
+[STARWOOD] Parsing Le Méridien Beach Plaza: √
+[STARWOOD] Parsing Element Amsterdam: √
+[STARWOOD] Parsing Sheraton Amsterdam Airport Hotel and Conference Center: √
+[STARWOOD] Parsing W Amsterdam: √
+[STARWOOD] Parsing Kruisherenhotel Maastricht, a Member of Design Hotels™: √
+[STARWOOD] Parsing Mainport, Rotterdam, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel Des Indes, a Luxury Collection Hotel, The Hague: √
+[STARWOOD] Parsing Sheraton Grand Krakow: √
+[STARWOOD] Parsing Sheraton Poznan Hotel: √
+[STARWOOD] Parsing Sheraton Sopot Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Hotel Bristol, a Luxury Collection Hotel, Warsaw: √
+[STARWOOD] Parsing Sheraton Warsaw Hotel: √
+[STARWOOD] Parsing The Westin Warsaw: √
+[STARWOOD] Parsing Pine Cliffs Hotel, a Luxury Collection Resort, Algarve: √
+[STARWOOD] Parsing Pine Cliffs Ocean Suites, a Luxury Collection Resort, Algarve: √
+[STARWOOD] Parsing Pine Cliffs Residence, a Luxury Collection Resort, Algarve: √
+[STARWOOD] Parsing Praia Verde Boutique Hotel, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Cascais Resort: √
+[STARWOOD] Parsing Convento do Espinheiro, a Luxury Collection Hotel & Spa, Evora: √
+[STARWOOD] Parsing Furnas Boutique Hotel, Furnas, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Lisboa Hotel & Spa: √
+[STARWOOD] Parsing Vila Monte, Moncarapacho, a Member of Design Hotels™: √
+[STARWOOD] Parsing Azor Hotel, Ponta Delgada, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Porto Hotel & Spa: √
+[STARWOOD] Parsing Sheraton Bucharest Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Kaluga: √
+[STARWOOD] Parsing Four Points by Sheraton Krasnodar: √
+[STARWOOD] Parsing Four Points by Sheraton Moscow Vnukovo Airport: √
+[STARWOOD] Parsing Hotel National, a Luxury Collection Hotel, Moscow: √
+[STARWOOD] Parsing Sheraton Moscow Sheremetyevo Airport Hotel: √
+[STARWOOD] Parsing Sheraton Palace Hotel, Moscow: √
+[STARWOOD] Parsing StandArt Hotel Moscow, a Member of Design Hotels™: √
+[STARWOOD] Parsing The St. Regis Moscow Nikolskaya: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Rostov-On-Don Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing W St. Petersburg: √
+[STARWOOD] Parsing Sheraton Ufa Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Metropol Palace, a Luxury Collection Hotel, Belgrade: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Grand Hotel River Park, a Luxury Collection Hotel, Bratislava: √
+[STARWOOD] Parsing Sheraton Bratislava Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Ljubljana Mons: √
+[STARWOOD] Parsing Hospes Amérigo, Alicante, a Member of Design Hotels™: √
+[STARWOOD] Parsing Four Points by Sheraton Barcelona Diagonal: √
+[STARWOOD] Parsing Grand Hotel Central, Barcelona, a Member of Design Hotels™: √
+[STARWOOD] Parsing Le Méridien Barcelona: √
+[STARWOOD] Parsing W Barcelona: √
+[STARWOOD] Parsing Le Méridien Ra Beach Hotel & Spa: √
+[STARWOOD] Parsing Hotel Marqués de Riscal, a Luxury Collection Hotel, Elciego: √
+[STARWOOD] Parsing The Principal Madrid, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Palace, Madrid: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin La Quinta Golf Resort & Spa, Benahavis, Marbella: √
+[STARWOOD] Parsing Hospes Palacio de San Esteban , Salamanca, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel Maria Cristina, a Luxury Collection Hotel, San Sebastian: √
+[STARWOOD] Parsing Hospes Las Casas del Rey de Baeza, Seville, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel Alfonso XIII, a Luxury Collection Hotel, Seville: √
+[STARWOOD] Parsing Hospes Palau de la Mar, Valencia, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Westin Valencia: √
+[STARWOOD] Parsing Hospes Maricel & Spa, Palma de Mallorca, a Member of Design Hotels™: √
+[STARWOOD] Parsing Castillo Hotel Son Vida, a Luxury Collection Hotel, Mallorca: √
+[STARWOOD] Parsing Sheraton Mallorca Arabella Golf Hotel: √
+[STARWOOD] Parsing The St. Regis Mardavall Mallorca Resort: √
+[STARWOOD] Parsing Sheraton La Caleta Resort & Spa, Costa Adeje, Tenerife: √
+[STARWOOD] Parsing Sheraton Fuerteventura Beach, Golf & Spa Resort: √
+[STARWOOD] Parsing Sheraton Gran Canaria Salobre Golf Resort: √
+[STARWOOD] Parsing Hotel J, Stockholm, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel Skeppsholmen, Stockholm, a Member of Design Hotels™: √
+[STARWOOD] Parsing Miss Clara by Nobis, Stockholm, a Member of Design Hotels™: √
+[STARWOOD] Parsing Nobis Hotel, Stockholm, a Member of Design Hotels™: √
+[STARWOOD] Parsing Sheraton Stockholm Hotel: √
+[STARWOOD] Parsing Stallmästaregarden, Stockholm, a Member of Design Hotels™: √
+[STARWOOD] Parsing The Cambrian, Adelboden, a Member of Design Hotels™: √
+[STARWOOD] Parsing Giardino Ascona, a Member of Design Hotels™: √
+[STARWOOD] Parsing Giardino Mountain, Champfèr, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel President Wilson, a Luxury Collection Hotel, Geneva: √
+[STARWOOD] Parsing Giardino Lago, Minusio-Locarno, a Member of Design Hotels™: √
+[STARWOOD] Parsing Hotel de Rougemont, a Member of Design Hotels™: √
+[STARWOOD] Parsing Nira Alpina, Silvaplana, a Member of Design Hotels™: √
+[STARWOOD] Parsing W Verbier: √
+[STARWOOD] Parsing Atlantis by Giardino, Zurich, a Member of Design Hotels™: √
+[STARWOOD] Parsing Four Points by Sheraton Sihlcity - Zurich: √
+[STARWOOD] Parsing Sheraton Zurich Hotel: √
+[STARWOOD] Parsing Sheraton Zurich Neues Schloss Hotel: √
+[STARWOOD] Parsing Sheraton Dushanbe Hotel: √
+[STARWOOD] Parsing Sheraton Grand Adana: √
+[STARWOOD] Parsing Lugal, a Luxury Collection Hotel, Ankara: √
+[STARWOOD] Parsing Sheraton Ankara Hotel & Convention Center: √
+[STARWOOD] Parsing Caresse, a Luxury Collection Resort & Spa, Bodrum: √
+[STARWOOD] Parsing Aloft Bursa Hotel: √
+[STARWOOD] Parsing Sheraton Bursa Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Istanbul Batisehir: √
+[STARWOOD] Parsing Four Points by Sheraton Istanbul Dudullu: √
+[STARWOOD] Parsing Gezi Hotel Bosphorus, Istanbul, a Member of Design Hotels™: √
+[STARWOOD] Parsing Le Méridien Istanbul Etiler: √
+[STARWOOD] Parsing Sheraton Grand Istanbul Atasehir: √
+[STARWOOD] Parsing Sheraton Istanbul Ataköy Hotel: √
+[STARWOOD] Parsing The St. Regis Istanbul: √
+[STARWOOD] Parsing W Istanbul: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Cesme Hotel, Resort and Spa: √
+[STARWOOD] Parsing Sheraton Grand Samsun Hotel: √
+[STARWOOD] Parsing 11 Mirrors, a Member of Design Hotels™: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Skyline Hotel London Heathrow: √
+[STARWOOD] Parsing Aloft Liverpool: √
+[STARWOOD] Parsing Aloft London Excel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Blakes Hotel London, a Member of Design Hotels™: √
+[STARWOOD] Parsing Boundary, London, a Member of Design Hotels™: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Great Northern Hotel, a Tribute Portfolio Hotel, London: √
+[STARWOOD] Parsing Le Méridien Piccadilly: √
+[STARWOOD] Parsing Sheraton Grand London Park Lane: √
+[STARWOOD] Parsing The Park Tower Knightsbridge, a Luxury Collection Hotel, London: √
+[STARWOOD] Parsing Town Hall Hotel & Apartments, London, a Member of Design Hotels™: √
+[STARWOOD] Parsing W London - Leicester Square: √
+[STARWOOD] Parsing Sheraton Heathrow Hotel: √
+[STARWOOD] Parsing Trump Turnberry, a Luxury Collection Resort, Scotland: √
+[STARWOOD] Parsing Sheraton Grand Hotel & Spa, Edinburgh: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Bahrain City Centre: √
+[STARWOOD] Parsing Sheraton Bahrain Hotel: √
+[STARWOOD] Parsing The Westin Bahrain City Centre: √
+[STARWOOD] Parsing Sheraton Dohuk Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Tel Aviv Hotel: √
+[STARWOOD] Parsing W Tel Aviv – Jaffa: √
+[STARWOOD] Parsing Le Méridien Amman: √
+[STARWOOD] Parsing Sheraton Amman Al Nabil Hotel: √
+[STARWOOD] Parsing The St. Regis Amman: √
+[STARWOOD] Parsing W Amman Hotel: √
+[STARWOOD] Parsing Al Manara, a Luxury Collection Hotel, Saraya Aqaba: √
+[STARWOOD] Parsing The Westin Saraya Aqaba: √
+[STARWOOD] Parsing Four Points by Sheraton Kuwait: √
+[STARWOOD] Parsing Sheraton Kuwait, a Luxury Collection Hotel, Kuwait City: √
+[STARWOOD] Parsing Four Points by Sheraton Le Verdun: √
+[STARWOOD] Parsing Grand Hills, a Luxury Collection Hotel & Spa, Broumana: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Oman Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Grand Doha Resort & Convention Hotel: √
+[STARWOOD] Parsing The St. Regis Doha: √
+[STARWOOD] Parsing The Westin Doha Hotel & Spa: √
+[STARWOOD] Parsing W Doha Hotel & Residences: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Al Khobar: √
+[STARWOOD] Parsing Sheraton Dammam Hotel & Convention Centre: √
+[STARWOOD] Parsing Aloft Dhahran: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Jeddah: √
+[STARWOOD] Parsing Sheraton Jeddah Hotel: √
+[STARWOOD] Parsing Four Points by Sheraton Makkah: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Le Méridien Makkah: √
+[STARWOOD] Parsing Le Méridien Towers Makkah: √
+[STARWOOD] Parsing Sheraton Makkah Hotel: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Makkah: √
+[STARWOOD] Parsing Le Méridien Medina: √
+[STARWOOD] Parsing Aloft Riyadh: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Riyadh Khaldia: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Sheraton Riyadh Hotel & Towers: √
+[STARWOOD] Parsing Le Méridien Al Hada: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Abu Dhabi: √
+[STARWOOD] Parsing Le Méridien Abu Dhabi: √
+[STARWOOD] Parsing Le Royal Méridien Abu Dhabi: √
+[STARWOOD] Parsing Sheraton Abu Dhabi Hotel & Resort: √
+[STARWOOD] Parsing The St. Regis Abu Dhabi: √
+[STARWOOD] Parsing The St. Regis Saadiyat Island Resort, Abu Dhabi: √
+[STARWOOD] Parsing The Westin Abu Dhabi Golf Resort & Spa: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Ajman Saray, a Luxury Collection Resort, Ajman: √
+[STARWOOD] Parsing Aloft Al Ain: √
+[STARWOOD] Parsing Al Maha, a Luxury Collection Desert Resort & Spa, Dubai: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Four Points by Sheraton Bur Dubai: √
+[STARWOOD] Parsing Four Points by Sheraton Downtown Dubai: √
+[STARWOOD] Parsing Four Points by Sheraton Sheikh Zayed Road, Dubai: √
+[STARWOOD] Parsing Grosvenor House, a Luxury Collection Hotel, Dubai: √
+[STARWOOD] Parsing Le Méridien Dubai Hotel & Conference Centre: √
+[STARWOOD] Parsing Le Méridien Fairway: √
+[STARWOOD] Parsing Le Méridien Mina Seyahi Beach Resort & Marina: √
+[STARWOOD] Parsing Le Royal Méridien Beach Resort & Spa: √
+[STARWOOD] Parsing Sheraton Dubai Creek Hotel & Towers: √
+[STARWOOD] Parsing Sheraton Dubai Mall of the Emirates Hotel: √
+[STARWOOD] Parsing Sheraton Grand Hotel, Dubai: √
+[STARWOOD] Parsing Sheraton Jumeirah Beach Resort: √
+[STARWOOD] Parsing The St. Regis Dubai: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing The Westin Dubai Al Habtoor City: √
+[STARWOOD] Parsing The Westin Dubai Mina Seyahi Beach Resort & Marina: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing W Dubai Al Habtoor City: √
+[STARWOOD] Parsing Le Méridien Al Aqah Beach Resort: √
+[STARWOOD] Parsing : x (invalid property, it might be redirecting)
+[STARWOOD] Parsing Aloft Sharjah: √
+[STARWOOD] Parsing Four Points by Sheraton Sharjah: √
+[STARWOOD] Parsing Sheraton Sharjah Beach Resort & Spa: √
+[STARWOOD] 1727 total successful results saved.
+[STARWOOD] 237 total error results.
+[STARWOOD] √ All Done.%
