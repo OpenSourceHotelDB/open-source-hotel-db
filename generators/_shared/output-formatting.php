@@ -2,6 +2,7 @@
 
 define('COLOR_CLEAR', "\033[0m");
 
+// @see http://www.if-not-true-then-false.com/2010/php-class-for-coloring-php-command-line-cli-scripts-output-php-output-colorizing-using-bash-shell-colors/
 function green($str) {
     return "\033[0;32m" . $str . COLOR_CLEAR;
 }
@@ -14,8 +15,16 @@ function purple($str) {
     return "\033[0;35m" . $str . COLOR_CLEAR;
 }
 
+function lightblue($str) {
+    return "\033[1;34m" . $str . COLOR_CLEAR;
+}
+
 function spg($str) {
     echo "\n" . purple("[STARWOOD] ") . $str;
+}
+
+function hilton($str) {
+    echo "\n" . lightblue("[HILTON] ") . $str;
 }
 
 function get_url($url) {
