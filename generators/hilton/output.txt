@@ -1,0 +1,607 @@
+± php generators/hilton/hilton.php
+
+[HILTON] Fetching all Properties...
+[HILTON] Regions cached file found.
+[HILTON] Region ID 136 loaded from cache.
+[HILTON] Parsing Hilton Addis Ababa: √ (already saved)
+[HILTON] Parsing Hilton Alexandria Corniche: √ (already saved)
+[HILTON] Parsing Hilton Alexandria Green Plaza: √ (already saved)
+[HILTON] Parsing Hilton Alexandria King's Ranch: √ (already saved)
+[HILTON] Parsing Hilton Alger: √ (already saved)
+[HILTON] Parsing Hilton Cairo World Trade Center Residences: √ (already saved)
+[HILTON] Parsing Hilton Cairo Zamalek Residences: √ (already saved)
+[HILTON] Parsing Hilton Cape Town City Centre: √ (already saved)
+[HILTON] Parsing Hilton Durban: √ (already saved)
+[HILTON] Parsing Hilton Hurghada Long Beach Resort: √ (already saved)
+[HILTON] Parsing Hilton Hurghada Plaza: √ (already saved)
+[HILTON] Parsing Hilton Hurghada Resort: √ (already saved)
+[HILTON] Parsing Hilton Luxor Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton Malabo: √ (already saved)
+[HILTON] Parsing Hilton Marsa Alam Nubian Resort: √ (already saved)
+[HILTON] Parsing Hilton Mauritius Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton N'Djamena: √ (already saved)
+[HILTON] Parsing Hilton Nairobi: √ (already saved)
+[HILTON] Parsing Hilton Pyramids Golf Resort: √ (already saved)
+[HILTON] Parsing Hilton Sandton: √ (already saved)
+[HILTON] Parsing Hilton Seychelles Labriz Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton Seychelles Northolme Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton Sharks Bay Resort: √ (already saved)
+[HILTON] Parsing Hilton Sharm Dreams Resort: √ (already saved)
+[HILTON] Parsing Hilton Sharm El Sheikh Fayrouz Resort: √ (already saved)
+[HILTON] Parsing Hilton Sharm Waterfalls Resort: √ (already saved)
+[HILTON] Parsing Hilton Taba Resort & Nelson Village: √ (already saved)
+[HILTON] Parsing Hilton Windhoek: √ (already saved)
+[HILTON] Parsing Hilton Yaounde: √ (already saved)
+[HILTON] Parsing Ramses Hilton: √ (already saved)
+[HILTON] Parsing Transcorp Hilton Abuja: √ (already saved)
+[HILTON] 31 total results saved (after 1 regions)
+[HILTON] Region ID 1150 loaded from cache.
+[HILTON] Parsing Hilton Bali Resort: √ (already saved)
+[HILTON] Parsing Hilton Bandung: √ (already saved)
+[HILTON] Parsing Hilton Bangalore Embassy GolfLinks: √ (already saved)
+[HILTON] Parsing Hilton Beijing: √ (already saved)
+[HILTON] Parsing Hilton Beijing Capital Airport: √ (already saved)
+[HILTON] Parsing Hilton Beijing Wangfujing: √ (already saved)
+[HILTON] Parsing Hilton Changzhou: √ (already saved)
+[HILTON] Parsing Hilton Chengdu: √ (already saved)
+[HILTON] Parsing Hilton Chennai: √ (already saved)
+[HILTON] Parsing Hilton Chongqing: √ (already saved)
+[HILTON] Parsing Hilton Colombo: √ (already saved)
+[HILTON] Parsing Hilton Colombo Residences: √ (already saved)
+[HILTON] Parsing Hilton Dali Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton Dalian: √ (already saved)
+[HILTON] Parsing Hilton Foshan: √ (already saved)
+[HILTON] Parsing Hilton Fukuoka Sea Hawk: √ (already saved)
+[HILTON] Parsing Hilton Goa Resort: √ (already saved)
+[HILTON] Parsing Hilton Guangzhou Baiyun: √ (already saved)
+[HILTON] Parsing Hilton Guangzhou Tianhe: √ (already saved)
+[HILTON] Parsing Hilton Haikou: √ (already saved)
+[HILTON] Parsing Hilton Haikou Meilan: √ (already saved)
+[HILTON] Parsing Hilton Hangzhou Qiandao Lake Resort: √ (already saved)
+[HILTON] Parsing Hilton Hanoi Opera: √ (already saved)
+[HILTON] Parsing Hilton Hefei: √ (already saved)
+[HILTON] Parsing Hilton Hua Hin Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton Jaipur: √ (already saved)
+[HILTON] Parsing Hilton Jinan South Hotel & Residences: √ (already saved)
+[HILTON] Parsing Hilton Jiuzhaigou Resort: √ (already saved)
+[HILTON] Parsing Hilton Kota Kinabalu: √ (already saved)
+[HILTON] Parsing Hilton Kuala Lumpur: √ (already saved)
+[HILTON] Parsing Hilton Kuching: √ (already saved)
+[HILTON] Parsing Hilton Mumbai International Airport: √ (already saved)
+[HILTON] Parsing Hilton Nagoya: √ (already saved)
+[HILTON] Parsing Hilton Nanjing: √ (already saved)
+[HILTON] Parsing Hilton Nanjing Riverside: √ (already saved)
+[HILTON] Parsing Hilton Ningbo Dongqian Lake Resort: √ (already saved)
+[HILTON] Parsing Hilton Niseko Village: √ (already saved)
+[HILTON] Parsing Hilton Odawara Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton Okinawa Chatan Resort: √ (already saved)
+[HILTON] Parsing Hilton Osaka: √ (already saved)
+[HILTON] Parsing Hilton Pattaya: √ (already saved)
+[HILTON] Parsing Hilton Petaling Jaya: √ (already saved)
+[HILTON] Parsing Hilton Phuket Arcadia Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton Qingdao Golden Beach: √ (already saved)
+[HILTON] Parsing Hilton Sanya Yalong Bay Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton Shanghai: √ (already saved)
+[HILTON] Parsing Hilton Shanghai Hongqiao: √ (already saved)
+[HILTON] Parsing Hilton Shenzhen Futian: √ (already saved)
+[HILTON] Parsing Hilton Shenzhen Shekou Nanhai: √ (already saved)
+[HILTON] Parsing Hilton Shijiazhuang: √ (already saved)
+[HILTON] Parsing Hilton Shillim Estate Retreat & Spa: √ (already saved)
+[HILTON] Parsing Hilton Singapore: √ (already saved)
+[HILTON] Parsing Hilton Sukhumvit Bangkok: √ (already saved)
+[HILTON] Parsing Hilton Tianjin Eco-City: √ (already saved)
+[HILTON] Parsing Hilton Tokyo: √ (already saved)
+[HILTON] Parsing Hilton Tokyo Bay: √ (already saved)
+[HILTON] Parsing Hilton Tokyo Narita Airport: √ (already saved)
+[HILTON] Parsing Hilton Tokyo Odaiba: √ (already saved)
+[HILTON] Parsing Hilton Urumqi: √ (already saved)
+[HILTON] Parsing Hilton Wenchang: √ (already saved)
+[HILTON] Parsing Hilton Wuhan Optics Valley: √ (already saved)
+[HILTON] Parsing Hilton Wuhan Riverside: √ (already saved)
+[HILTON] Parsing Hilton Xi'an: √ (already saved)
+[HILTON] Parsing Hilton Yantai Golden Coast: √ (already saved)
+[HILTON] Parsing Hilton Yuxi Fuxian Lake: √ (already saved)
+[HILTON] Parsing Hilton Zhengzhou: √ (already saved)
+[HILTON] Parsing Hilton Zhongshan Downtown: √ (already saved)
+[HILTON] Parsing Hilton Zhoushan: √ (already saved)
+[HILTON] Parsing Hilton Zhuzhou: √ (already saved)
+[HILTON] Parsing Millennium Hilton Bangkok: √ (already saved)
+[HILTON] 101 total results saved (after 2 regions)
+[HILTON] Region ID 1113 loaded from cache.
+[HILTON] Parsing Hilton Adelaide: √
+[HILTON] Parsing Hilton Auckland: √
+[HILTON] Parsing Hilton Bora Bora Nui Resort & Spa: √
+[HILTON] Parsing Hilton Brisbane: √
+[HILTON] Parsing Hilton Cairns: √
+[HILTON] Parsing Hilton Darwin: √
+[HILTON] Parsing Hilton Fiji Beach Resort and Spa: √
+[HILTON] Parsing Hilton Lake Taupo: √
+[HILTON] Parsing Hilton Melbourne South Wharf: √
+[HILTON] Parsing Hilton Moorea Lagoon Resort & Spa: √
+[HILTON] Parsing Hilton Queenstown Resort & Spa: √
+[HILTON] Parsing Hilton Surfers Paradise: √
+[HILTON] Parsing Hilton Surfers Paradise Residences: √
+[HILTON] Parsing Hilton Sydney: √
+[HILTON] Parsing Parmelia Hilton Perth: √
+[HILTON] 116 total results saved (after 3 regions)
+[HILTON] Fetching Region ID 1210√
+[HILTON] Parsing Hilton Lac-Leamy: √
+[HILTON] Parsing Hilton Mississauga/Meadowvale: √
+[HILTON] Parsing Hilton Montreal/Laval: √
+[HILTON] Parsing Hilton Niagara Falls/Fallsview Hotel & Suites: √
+[HILTON] Parsing Hilton Quebec: √
+[HILTON] Parsing Hilton Saint John: √
+[HILTON] Parsing Hilton Toronto: √
+[HILTON] Parsing Hilton Toronto Airport Hotel & Suites: √
+[HILTON] Parsing Hilton Toronto/Markham Suites Conference Centre & Spa: √
+[HILTON] Parsing Hilton Vancouver Airport: √
+[HILTON] Parsing Hilton Vancouver Metrotown: √
+[HILTON] Parsing Hilton Whistler Resort & Spa: √
+[HILTON] Parsing Hilton Winnipeg Airport Suites: √
+[HILTON] 129 total results saved (after 4 regions)
+[HILTON] Fetching Region ID 1590√
+[HILTON] Parsing British Colonial Hilton Nassau: √
+[HILTON] Parsing Caribe Hilton: √
+[HILTON] Parsing Condado Lagoon Villas at Caribe Hilton: √
+[HILTON] Parsing El San Juan Resort & Casino, a Hilton Hotel: √
+[HILTON] Parsing Hilton Barbados Resort: √
+[HILTON] Parsing Hilton Guadalajara: √
+[HILTON] Parsing Hilton Los Cabos Beach & Golf Resort: √
+[HILTON] Parsing Hilton Mexico City Reforma: √
+[HILTON] Parsing Hilton Mexico City Santa Fe: √
+[HILTON] Parsing Hilton México City Airport: √
+[HILTON] Parsing Hilton Panama: √
+[HILTON] Parsing Hilton Ponce Golf & Casino Resort: √
+[HILTON] Parsing Hilton Princess Managua: √
+[HILTON] Parsing Hilton Princess San Pedro Sula: √
+[HILTON] Parsing Hilton Puerto Vallarta Resort: √
+[HILTON] Parsing Hilton Rose Hall Resort & Spa: √
+[HILTON] Parsing Hilton San Luis Potosi: √
+[HILTON] Parsing Hilton Trinidad & Conference Centre: √
+[HILTON] Parsing Hilton Villahermosa & Conference Center: √
+[HILTON] Parsing Hilton at Resorts World Bimini: √
+[HILTON] Parsing The Condado Plaza Hilton: √
+[HILTON] 150 total results saved (after 5 regions)
+[HILTON] Fetching Region ID 990x - failed. Skipping
+[HILTON] Fetching Region ID 137√
+[HILTON] Parsing Hilton Abu Dhabi: √
+[HILTON] Parsing Hilton Al Ain: √
+[HILTON] Parsing Hilton Al Hamra Beach & Golf Resort: √
+[HILTON] Parsing Hilton Alexandria Corniche: √ (already saved)
+[HILTON] Parsing Hilton Alexandria Green Plaza: √ (already saved)
+[HILTON] Parsing Hilton Alexandria King's Ranch: √ (already saved)
+[HILTON] Parsing Hilton Beirut Habtoor Grand: √
+[HILTON] Parsing Hilton Beirut Metropolitan Palace: √
+[HILTON] Parsing Hilton Cairo World Trade Center Residences: √ (already saved)
+[HILTON] Parsing Hilton Cairo Zamalek Residences: √ (already saved)
+[HILTON] Parsing Hilton Capital Grand Abu Dhabi: √
+[HILTON] Parsing Hilton Cyprus: √
+[HILTON] Parsing Hilton Dead Sea Resort & Spa: √
+[HILTON] Parsing Hilton Doha: √
+[HILTON] Parsing Hilton Dubai Creek: √
+[HILTON] Parsing Hilton Dubai Jumeirah Beach: √
+[HILTON] Parsing Hilton Dubai The Walk: √
+[HILTON] Parsing Hilton Eilat Queen of Sheba: √
+[HILTON] Parsing Hilton Fujairah Resort: √
+[HILTON] Parsing Hilton Hurghada Long Beach Resort: √ (already saved)
+[HILTON] Parsing Hilton Hurghada Plaza: √ (already saved)
+[HILTON] Parsing Hilton Hurghada Resort: √ (already saved)
+[HILTON] Parsing Hilton Kuwait Resort: √
+[HILTON] Parsing Hilton Luxor Resort & Spa: √ (already saved)
+[HILTON] Parsing Hilton Marsa Alam Nubian Resort: √ (already saved)
+[HILTON] Parsing Hilton Park Nicosia: √
+[HILTON] Parsing Hilton Pyramids Golf Resort: √ (already saved)
+[HILTON] Parsing Hilton Ras Al Khaimah Resort & Spa: √
+[HILTON] Parsing Hilton Riyadh Hotel & Residences: √
+[HILTON] Parsing Hilton Salalah Resort: √
+[HILTON] Parsing Hilton Sharjah: √
+[HILTON] Parsing Hilton Sharks Bay Resort: √ (already saved)
+[HILTON] Parsing Hilton Sharm Dreams Resort: √ (already saved)
+[HILTON] Parsing Hilton Sharm El Sheikh Fayrouz Resort: √ (already saved)
+[HILTON] Parsing Hilton Sharm Waterfalls Resort: √ (already saved)
+[HILTON] Parsing Hilton Suites Makkah: √
+[HILTON] Parsing Hilton Taba Resort & Nelson Village: √ (already saved)
+[HILTON] Parsing Hilton Tel Aviv: √
+[HILTON] Parsing Jeddah Hilton Hotel: √
+[HILTON] Parsing King Hussein bin Talal Convention Centre managed by Hilton: √
+[HILTON] Parsing Madinah Hilton: √
+[HILTON] Parsing Makkah Hilton Hotel: √
+[HILTON] Parsing Makkah Hilton Towers: √
+[HILTON] Parsing Ramses Hilton: √ (already saved)
+[HILTON] 194 total results saved (after 7 regions)
+[HILTON] Fetching Region ID 135√
+[HILTON] Parsing Hilton Aruba Caribbean Resort & Casino: √
+[HILTON] Parsing Hilton Barra Rio de Janeiro: √
+[HILTON] Parsing Hilton Bogota: √
+[HILTON] Parsing Hilton Buenos Aires: √
+[HILTON] Parsing Hilton Cartagena Hotel: √
+[HILTON] Parsing Hilton Colon Guayaquil: √
+[HILTON] Parsing Hilton Colon Quito: √
+[HILTON] Parsing Hilton Lima Miraflores: √
+[HILTON] Parsing Hilton Sao Paulo Morumbi: √
+[HILTON] 203 total results saved (after 8 regions)
+[HILTON] Fetching Region ID 1090x - failed. Skipping
+[HILTON] Fetching Region ID 1130√
+[HILTON] Parsing Buena Vista Palace: √
+[HILTON] Parsing Cape Rey Carlsbad, a Hilton Resort: √
+[HILTON] Parsing Capital Hilton: √
+[HILTON] Parsing Elara by Hilton Grand Vacations – Center Strip: √
+[HILTON] Parsing Grand Waikikian by Hilton Grand Vacations: √
+[HILTON] Parsing Hilton Akron/Fairlawn: √
+[HILTON] Parsing Hilton Albany: √
+[HILTON] Parsing Hilton Alexandria Mark Center: √
+[HILTON] Parsing Hilton Alexandria Old Town: √
+[HILTON] Parsing Hilton Americas-Houston: √
+[HILTON] Parsing Hilton Anaheim: √
+[HILTON] Parsing Hilton Anatole: √
+[HILTON] Parsing Hilton Anchorage: √
+[HILTON] Parsing Hilton Arlington: √
+[HILTON] Parsing Hilton Arlington: √
+[HILTON] Parsing Hilton Asheville Biltmore Park: √
+[HILTON] Parsing Hilton Atlanta: √
+[HILTON] Parsing Hilton Atlanta Airport: √
+[HILTON] Parsing Hilton Atlanta Northeast: √
+[HILTON] Parsing Hilton Atlanta Perimeter Suites: √
+[HILTON] Parsing Hilton Atlanta/Marietta Hotel & Conference Center: √
+[HILTON] Parsing Hilton Auburn Hills Suites: √
+[HILTON] Parsing Hilton Austin: √
+[HILTON] Parsing Hilton Austin Airport: √
+[HILTON] Parsing Hilton Baltimore: √
+[HILTON] Parsing Hilton Baltimore BWI Airport: √
+[HILTON] Parsing Hilton Baton Rouge Capitol Center: √
+[HILTON] Parsing Hilton Bellevue: √
+[HILTON] Parsing Hilton Bentley Miami/South Beach: √
+[HILTON] Parsing Hilton Birmingham Perimeter Park: √
+[HILTON] Parsing Hilton Boca Raton Suites: √
+[HILTON] Parsing Hilton Boston Back Bay: √
+[HILTON] Parsing Hilton Boston Downtown/Faneuil Hall: √
+[HILTON] Parsing Hilton Boston Logan Airport: √
+[HILTON] Parsing Hilton Boston/Dedham: √
+[HILTON] Parsing Hilton Boston/Woburn: √
+[HILTON] Parsing Hilton Branson Convention Center: √
+[HILTON] Parsing Hilton Brentwood/Nashville Suites: √
+[HILTON] Parsing Hilton Brooklyn New York: √
+[HILTON] Parsing Hilton Burlington: √
+[HILTON] Parsing Hilton Cabana Miami Beach: √
+[HILTON] Parsing Hilton Charlotte Center City: √
+[HILTON] Parsing Hilton Charlotte Executive Park: √
+[HILTON] Parsing Hilton Charlotte University Place: √
+[HILTON] Parsing Hilton Checkers Los Angeles: √
+[HILTON] Parsing Hilton Chicago: √
+[HILTON] Parsing Hilton Chicago O'Hare Airport: √
+[HILTON] Parsing Hilton Chicago/Indian Lakes Resort: √
+[HILTON] Parsing Hilton Chicago/Magnificent Mile Suites: √
+[HILTON] Parsing Hilton Chicago/Northbrook: √
+[HILTON] Parsing Hilton Chicago/Oak Brook Hills Resort & Conference Center: √
+[HILTON] Parsing Hilton Chicago/Oak Brook Suites: √
+[HILTON] Parsing Hilton Chicago/Oak Lawn: √
+[HILTON] Parsing Hilton Cincinnati Airport: √
+[HILTON] Parsing Hilton Cincinnati Netherland Plaza: √
+[HILTON] Parsing Hilton Clearwater Beach Resort & Spa: √
+[HILTON] Parsing Hilton Cleveland Downtown: √
+[HILTON] Parsing Hilton Cocoa Beach Oceanfront: √
+[HILTON] Parsing Hilton College Station & Conference Center: √
+[HILTON] Parsing Hilton Columbia Center: √
+[HILTON] Parsing Hilton Columbus Downtown: √
+[HILTON] Parsing Hilton Columbus at Easton: √
+[HILTON] Parsing Hilton Columbus/Polaris: √
+[HILTON] Parsing Hilton Concord: √
+[HILTON] Parsing Hilton Crystal City at Washington Reagan National Airport: √
+[HILTON] Parsing Hilton DFW Lakes Executive Conference Center: √
+[HILTON] Parsing Hilton Dallas Lincoln Centre: √
+[HILTON] Parsing Hilton Dallas/Park Cities: √
+[HILTON] Parsing Hilton Dallas/Plano Granite Park: √
+[HILTON] Parsing Hilton Dallas/Rockwall Lakefront: √
+[HILTON] Parsing Hilton Dallas/Southlake Town Square: √
+[HILTON] Parsing Hilton Daytona Beach Resort/Ocean Walk Village: √
+[HILTON] Parsing Hilton Durham near Duke University: √
+[HILTON] Parsing Hilton East Brunswick Hotel & Executive Meeting Center: √
+[HILTON] Parsing Hilton Eugene: √
+[HILTON] Parsing Hilton Fort Collins: √
+[HILTON] Parsing Hilton Fort Lauderdale Beach Resort: √
+[HILTON] Parsing Hilton Fort Lauderdale Marina: √
+[HILTON] Parsing Hilton Fort Wayne at the Grand Wayne Convention Center: √
+[HILTON] Parsing Hilton Fort Worth: √
+[HILTON] Parsing Hilton Galveston Island Resort: √
+[HILTON] Parsing Hilton Grand Vacations at Hilton Hawaiian Village: √
+[HILTON] Parsing Hilton Grand Vacations at McAlpin-Ocean Plaza: √
+[HILTON] Parsing Hilton Grand Vacations at SeaWorld: √
+[HILTON] Parsing Hilton Grand Vacations at Tuscany Village: √
+[HILTON] Parsing Hilton Grand Vacations at the Flamingo: √
+[HILTON] Parsing Hilton Grand Vacations on Paradise (Convention Center): √
+[HILTON] Parsing Hilton Grand Vacations on the Las Vegas Strip: √
+[HILTON] Parsing Hilton Greenville: √
+[HILTON] Parsing Hilton Greenville: √
+[HILTON] Parsing Hilton Harrisburg: √
+[HILTON] Parsing Hilton Hartford: √
+[HILTON] Parsing Hilton Hasbrouck Heights/Meadowlands: √
+[HILTON] Parsing Hilton Hawaiian Village Waikiki Beach Resort: √
+[HILTON] Parsing Hilton Houston Galleria Area: √
+[HILTON] Parsing Hilton Houston NASA Clear Lake: √
+[HILTON] Parsing Hilton Houston North: √
+[HILTON] Parsing Hilton Houston Plaza/Medical Center: √
+[HILTON] Parsing Hilton Houston Post Oak: √
+[HILTON] Parsing Hilton Houston Westchase: √
+[HILTON] Parsing Hilton Indianapolis Hotel & Suites: √
+[HILTON] Parsing Hilton Irvine/Orange County Airport: √
+[HILTON] Parsing Hilton Jackson: √
+[HILTON] Parsing Hilton Kansas City Airport: √
+[HILTON] Parsing Hilton Key Largo Resort: √
+[HILTON] Parsing Hilton Knoxville: √
+[HILTON] Parsing Hilton Knoxville Airport: √
+[HILTON] Parsing Hilton La Jolla Torrey Pines: √
+[HILTON] Parsing Hilton Lake Las Vegas Resort & Spa: √
+[HILTON] Parsing Hilton Lexington Suites: √
+[HILTON] Parsing Hilton Lexington/Downtown: √
+[HILTON] Parsing Hilton Lisle/Naperville: √
+[HILTON] Parsing Hilton Long Beach: √
+[HILTON] Parsing Hilton Long Island/Huntington: √
+[HILTON] Parsing Hilton Los Angeles Airport: √
+[HILTON] Parsing Hilton Los Angeles North/Glendale & Executive Meeting Ctr: √
+[HILTON] Parsing Hilton Los Angeles/San Gabriel: √
+[HILTON] Parsing Hilton Los Angeles/Universal City: √
+[HILTON] Parsing Hilton Madison Monona Terrace: √
+[HILTON] Parsing Hilton Manhattan East: √
+[HILTON] Parsing Hilton Marco Island Beach Resort and Spa: √
+[HILTON] Parsing Hilton McLean Tysons Corner: √
+[HILTON] Parsing Hilton Meadowlands: √
+[HILTON] Parsing Hilton Melbourne Beach Oceanfront: √
+[HILTON] Parsing Hilton Melbourne Rialto Place: √
+[HILTON] Parsing Hilton Memphis: √
+[HILTON] Parsing Hilton Miami Airport: √
+[HILTON] Parsing Hilton Miami Downtown: √
+[HILTON] Parsing Hilton Milwaukee City Center: √
+[HILTON] Parsing Hilton Minneapolis: √
+[HILTON] Parsing Hilton Minneapolis/Bloomington: √
+[HILTON] Parsing Hilton Minneapolis/St. Paul Airport Mall of America: √
+[HILTON] Parsing Hilton Myrtle Beach Resort: √
+[HILTON] Parsing Hilton Mystic: √
+[HILTON] Parsing Hilton Naples: √
+[HILTON] Parsing Hilton Nashville Downtown: √
+[HILTON] Parsing Hilton New Orleans Airport: √
+[HILTON] Parsing Hilton New Orleans Riverside: √
+[HILTON] Parsing Hilton New Orleans/St. Charles Avenue: √
+[HILTON] Parsing Hilton New York Fashion District: √
+[HILTON] Parsing Hilton New York JFK Airport: √
+[HILTON] Parsing Hilton Newark Airport: √
+[HILTON] Parsing Hilton Newark Penn Station: √
+[HILTON] Parsing Hilton Norfolk The Main: √
+[HILTON] Parsing Hilton North Raleigh/Midtown: √
+[HILTON] Parsing Hilton Oakland Airport: √
+[HILTON] Parsing Hilton Ocala: √
+[HILTON] Parsing Hilton Ocean City Oceanfront Suites: √
+[HILTON] Parsing Hilton Omaha: √
+[HILTON] Parsing Hilton Orange County/Costa Mesa: √
+[HILTON] Parsing Hilton Orlando: √
+[HILTON] Parsing Hilton Orlando Bonnet Creek: √
+[HILTON] Parsing Hilton Orlando Lake Buena Vista - Disney Springs™ Area: √
+[HILTON] Parsing Hilton Orlando/Altamonte Springs: √
+[HILTON] Parsing Hilton Orrington/Evanston: √
+[HILTON] Parsing Hilton Palacio del Rio: √
+[HILTON] Parsing Hilton Palm Beach Airport: √
+[HILTON] Parsing Hilton Palm Springs: √
+[HILTON] Parsing Hilton Parsippany: √
+[HILTON] Parsing Hilton Pasadena: √
+[HILTON] Parsing Hilton Pearl River: √
+[HILTON] Parsing Hilton Pensacola Beach: √
+[HILTON] Parsing Hilton Philadelphia City Avenue: √
+[HILTON] Parsing Hilton Philadelphia at Penn's Landing: √
+[HILTON] Parsing Hilton Phoenix Airport: √
+[HILTON] Parsing Hilton Phoenix Chandler: √
+[HILTON] Parsing Hilton Phoenix Suites: √
+[HILTON] Parsing Hilton Phoenix/Mesa: √
+[HILTON] Parsing Hilton Portland & Executive Tower: √
+[HILTON] Parsing Hilton President Kansas City: √
+[HILTON] Parsing Hilton Promenade at Branson Landing: √
+[HILTON] Parsing Hilton Providence: √
+[HILTON] Parsing Hilton Richmond Downtown: √
+[HILTON] Parsing Hilton Richmond Hotel & Spa/Short Pump: √
+[HILTON] Parsing Hilton Rosemont/Chicago O'Hare: √
+[HILTON] Parsing Hilton Sacramento Arden West: √
+[HILTON] Parsing Hilton Salt Lake City Center: √
+[HILTON] Parsing Hilton San Antonio Airport: √
+[HILTON] Parsing Hilton San Antonio Hill Country Hotel & Spa: √
+[HILTON] Parsing Hilton San Diego Airport/Harbor Island: √
+[HILTON] Parsing Hilton San Diego Bayfront: √
+[HILTON] Parsing Hilton San Diego Gaslamp Quarter: √
+[HILTON] Parsing Hilton San Diego Mission Valley: √
+[HILTON] Parsing Hilton San Diego Resort & Spa: √
+[HILTON] Parsing Hilton San Diego/Del Mar: √
+[HILTON] Parsing Hilton San Francisco Airport Bayfront: √
+[HILTON] Parsing Hilton San Francisco Financial District: √
+[HILTON] Parsing Hilton San Francisco Union Square: √
+[HILTON] Parsing Hilton San Jose: √
+[HILTON] Parsing Hilton Sandestin Beach Golf Resort & Spa: √
+[HILTON] Parsing Hilton Santa Clara: √
+[HILTON] Parsing Hilton Santa Cruz/Scotts Valley: √
+[HILTON] Parsing Hilton Santa Fe Buffalo Thunder: √
+[HILTON] Parsing Hilton Santa Fe Historic Plaza: √
+[HILTON] Parsing Hilton Savannah DeSoto: √
+[HILTON] Parsing Hilton Scottsdale Resort & Villas: √
+[HILTON] Parsing Hilton Scranton & Conference Center: √
+[HILTON] Parsing Hilton Seattle: √
+[HILTON] Parsing Hilton Seattle Airport & Conference Center: √
+[HILTON] Parsing Hilton Sedona Resort at Bell Rock: √
+[HILTON] Parsing Hilton Short Hills: √
+[HILTON] Parsing Hilton Shreveport: √
+[HILTON] Parsing Hilton Singer Island Oceanfront/Palm Beaches Resort: √
+[HILTON] Parsing Hilton Sonoma Wine Country: √
+[HILTON] Parsing Hilton Springfield: √
+[HILTON] Parsing Hilton St. Augustine Historic Bayfront: √
+[HILTON] Parsing Hilton St. Louis Airport: √
+[HILTON] Parsing Hilton St. Louis Downtown at the Arch: √
+[HILTON] Parsing Hilton St. Louis Frontenac: √
+[HILTON] Parsing Hilton St. Louis at the Ballpark: √
+[HILTON] Parsing Hilton St. Petersburg Bayfront: √
+[HILTON] Parsing Hilton St. Petersburg Carillon Park: √
+[HILTON] Parsing Hilton Stamford Hotel & Executive Meeting Center: √
+[HILTON] Parsing Hilton Stockton: √
+[HILTON] Parsing Hilton Tampa Airport Westshore: √
+[HILTON] Parsing Hilton Tampa Downtown: √
+[HILTON] Parsing Hilton Times Square: √
+[HILTON] Parsing Hilton Tucson East: √
+[HILTON] Parsing Hilton Tucson El Conquistador Golf & Tennis Resort: √
+[HILTON] Parsing Hilton University of Florida Conference Center Gainesville: √
+[HILTON] Parsing Hilton University of Houston: √
+[HILTON] Parsing Hilton Vancouver Washington: √
+[HILTON] Parsing Hilton Virginia Beach Oceanfront: √
+[HILTON] Parsing Hilton Waco: √
+[HILTON] Parsing Hilton Waikiki Beach: √
+[HILTON] Parsing Hilton Waikoloa Village: √
+[HILTON] Parsing Hilton Washington DC North/Gaithersburg: √
+[HILTON] Parsing Hilton Washington DC/Rockville Hotel & Executive Meeting Ctr: √
+[HILTON] Parsing Hilton Washington Dulles Airport: √
+[HILTON] Parsing Hilton West Palm Beach: √
+[HILTON] Parsing Hilton Westchester: √
+[HILTON] Parsing Hilton Wilmington Riverside: √
+[HILTON] Parsing Hilton Wilmington/Christiana: √
+[HILTON] Parsing Hilton Woodcliff Lake: √
+[HILTON] Parsing Hilton Woodland Hills/Los Angeles: √
+[HILTON] Parsing Hokulani Waikiki by Hilton Grand Vacations: √
+[HILTON] Parsing Kings' Land by Hilton Grand Vacations: √
+[HILTON] Parsing Kohala Suites by Hilton Grand Vacations: √
+[HILTON] Parsing Las Palmeras by Hilton Grand Vacations: √
+[HILTON] Parsing Millenium Hilton: √
+[HILTON] Parsing New York Hilton Midtown: √
+[HILTON] Parsing Ocean 22 by Hilton Grand Vacations: √
+[HILTON] Parsing Ocean Oak Resort by Hilton Grand Vacations: √
+[HILTON] Parsing Palmer House a Hilton Hotel: √
+[HILTON] Parsing Parc 55 San Francisco - a Hilton Hotel: √
+[HILTON] Parsing Parc Soleil by Hilton Grand Vacations: √
+[HILTON] Parsing Pointe Hilton Squaw Peak Resort: √
+[HILTON] Parsing Pointe Hilton Tapatio Cliffs Resort: √
+[HILTON] Parsing Royale Palms Condominiums: √
+[HILTON] Parsing Sunrise Lodge by Hilton Grand Vacations: √
+[HILTON] Parsing The Beverly Hilton: √
+[HILTON] Parsing The District by Hilton Club: √
+[HILTON] Parsing The Drake Hotel: √
+[HILTON] Parsing The Grand Islander by Hilton Grand Vacations: √
+[HILTON] Parsing The Hilton Club - New York: √
+[HILTON] Parsing The Inn at Penn, a Hilton Hotel: √
+[HILTON] Parsing The Marquette Hotel: √
+[HILTON] Parsing The Saratoga Hilton: √
+[HILTON] Parsing The Seelbach Hilton Louisville: √
+[HILTON] Parsing The Skirvin Hilton Oklahoma City: √
+[HILTON] Parsing The Waterfront Beach Resort, a Hilton Hotel: √
+[HILTON] Parsing Valdoro Mountain Lodge: √
+[HILTON] Parsing Washington Hilton: √
+[HILTON] Parsing West 57th Street by Hilton Club: √
+[HILTON] 467 total results saved (after 10 regions)
+[HILTON] Fetching Region ID 1171√
+[HILTON] Parsing Hilton Aberdeen Treetops: √
+[HILTON] Parsing Hilton Amsterdam: √
+[HILTON] Parsing Hilton Amsterdam Airport Schiphol: √
+[HILTON] Parsing Hilton Antwerp Old Town: √
+[HILTON] Parsing Hilton Avisford Park, Arundel: √
+[HILTON] Parsing Hilton Barcelona: √
+[HILTON] Parsing Hilton Bath City: √
+[HILTON] Parsing Hilton Belfast: √
+[HILTON] Parsing Hilton Belfast Templepatrick Golf & Country Club: √
+[HILTON] Parsing Hilton Berlin: √
+[HILTON] Parsing Hilton Birmingham Metropole: √
+[HILTON] Parsing Hilton Blackpool: √
+[HILTON] Parsing Hilton Bonn: √
+[HILTON] Parsing Hilton Bournemouth: √
+[HILTON] Parsing Hilton Bracknell: √
+[HILTON] Parsing Hilton Brighton Metropole: √
+[HILTON] Parsing Hilton Bristol: √
+[HILTON] Parsing Hilton Brussels City: √
+[HILTON] Parsing Hilton Brussels Grand Place: √
+[HILTON] Parsing Hilton Cambridge City Centre: √
+[HILTON] Parsing Hilton Cardiff: √
+[HILTON] Parsing Hilton Cobham: √
+[HILTON] Parsing Hilton Cologne: √
+[HILTON] Parsing Hilton Coventry: √
+[HILTON] Parsing Hilton Coylumbridge: √
+[HILTON] Parsing Hilton Dartford Bridge Hotel: √
+[HILTON] Parsing Hilton Diagonal Mar Barcelona: √
+[HILTON] Parsing Hilton Dresden: √
+[HILTON] Parsing Hilton Dublin: √
+[HILTON] Parsing Hilton Dublin Airport: √
+[HILTON] Parsing Hilton Dublin Kilmainham: √
+[HILTON] Parsing Hilton Dusseldorf: √
+[HILTON] Parsing Hilton East Midlands Airport: √
+[HILTON] Parsing Hilton Edinburgh Airport: √
+[HILTON] Parsing Hilton Edinburgh Carlton: √
+[HILTON] Parsing Hilton Edinburgh Grosvenor: √
+[HILTON] Parsing Hilton Evian-les-Bains: √
+[HILTON] Parsing Hilton Florence Metropole: √
+[HILTON] Parsing Hilton Frankfurt Airport: √
+[HILTON] Parsing Hilton Frankfurt City Centre: √
+[HILTON] Parsing Hilton Giardini Naxos: √
+[HILTON] Parsing Hilton Glasgow: √
+[HILTON] Parsing Hilton Glasgow Grosvenor: √
+[HILTON] Parsing Hilton Grand Vacations at Craigendarroch Suites: √
+[HILTON] Parsing Hilton Innsbruck: √
+[HILTON] Parsing Hilton Leeds City: √
+[HILTON] Parsing Hilton Leicester hotel: √
+[HILTON] Parsing Hilton Liverpool City Centre: √
+[HILTON] Parsing Hilton London Angel Islington: √
+[HILTON] Parsing Hilton London Bankside: √
+[HILTON] Parsing Hilton London Canary Wharf: √
+[HILTON] Parsing Hilton London Croydon: √
+[HILTON] Parsing Hilton London Euston: √
+[HILTON] Parsing Hilton London Gatwick Airport: √
+[HILTON] Parsing Hilton London Green Park: √
+[HILTON] Parsing Hilton London Heathrow Airport: √
+[HILTON] Parsing Hilton London Heathrow Airport Terminal 5: √
+[HILTON] Parsing Hilton London Hyde Park: √
+[HILTON] Parsing Hilton London Kensington: √
+[HILTON] Parsing Hilton London Metropole: √
+[HILTON] Parsing Hilton London Olympia: √
+[HILTON] Parsing Hilton London Paddington: √
+[HILTON] Parsing Hilton London Stansted Airport Hotel: √
+[HILTON] Parsing Hilton London Syon Park: √
+[HILTON] Parsing Hilton London Tower Bridge: √
+[HILTON] Parsing Hilton London Wembley: √
+[HILTON] Parsing Hilton Madrid Airport: √
+[HILTON] Parsing Hilton Maidstone: √
+[HILTON] Parsing Hilton Mainz: √
+[HILTON] Parsing Hilton Mainz City: √
+[HILTON] Parsing Hilton Malta: √
+[HILTON] Parsing Hilton Manchester Airport: √
+[HILTON] Parsing Hilton Manchester Deansgate: √
+[HILTON] Parsing Hilton Milan: √
+[HILTON] Parsing Hilton Milton Keynes: √
+[HILTON] Parsing Hilton Molino Stucky Venice: √
+[HILTON] Parsing Hilton Munich Airport: √
+[HILTON] Parsing Hilton Munich City: √
+[HILTON] Parsing Hilton Munich Park: √
+[HILTON] Parsing Hilton Newbury North: √
+[HILTON] Parsing Hilton Newcastle Gateshead: √
+[HILTON] Parsing Hilton Northampton: √
+[HILTON] Parsing Hilton Nottingham: √
+[HILTON] Parsing Hilton Nuremberg Hotel: √
+[HILTON] Parsing Hilton Paris Charles De Gaulle Airport: √
+[HILTON] Parsing Hilton Paris La Defense: √
+[HILTON] Parsing Hilton Paris Opera: √
+[HILTON] Parsing Hilton Paris Orly Airport: √
+[HILTON] Parsing Hilton Puckrup Hall, Tewkesbury: √
+[HILTON] Parsing Hilton Reading: √
+[HILTON] Parsing Hilton Rome Airport: √
+[HILTON] Parsing Hilton Rotterdam: √
+[HILTON] Parsing Hilton Royal Parc Soestduinen: √
+[HILTON] Parsing Hilton Sa Torre Mallorca Resort: √
+[HILTON] Parsing Hilton Sheffield hotel: √
+[HILTON] Parsing Hilton Sorrento Palace: √
+[HILTON] Parsing Hilton Southampton: √
+[HILTON] Parsing Hilton St Anne's Manor, Bracknell: √
+[HILTON] Parsing Hilton Strasbourg: √
+[HILTON] Parsing Hilton Strathclyde: √
+[HILTON] Parsing Hilton Swindon: √
+[HILTON] Parsing Hilton The Hague: √
+[HILTON] Parsing Hilton Vienna: √
+[HILTON] Parsing Hilton Vienna Danube Waterfront: √
+[HILTON] Parsing Hilton Vienna Plaza: √
+[HILTON] Parsing Hilton Vilamoura As Cascatas Golf Resort & Spa: √
+[HILTON] Parsing Hilton Warwick / Stratford-upon-Avon: √
+[HILTON] Parsing Hilton Watford: √
+[HILTON] Parsing Hilton York: √
+[HILTON] Parsing Hilton at St George's Park, Burton upon Trent: √
+[HILTON] Parsing Hilton at the Ageas Bowl, Southampton: √
+[HILTON] Parsing Hotel Astor - Saint Honoré: √
+[HILTON] Parsing London Hilton on Park Lane: √
+[HILTON] Parsing The Trafalgar London: √
+[HILTON] Parsing The Waldorf Hilton, London: √
+[HILTON] 582 total results saved (after 11 regions)
+[HILTON] √ All Done.%
