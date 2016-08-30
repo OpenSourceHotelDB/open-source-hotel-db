@@ -1,2 +1,2 @@
 #!/bin/sh
-find schemas -type f -exec jsonlint -q '{}' +
+find data -type f -exec jsonlint -q '{}' +
