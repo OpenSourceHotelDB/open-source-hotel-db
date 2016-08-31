@@ -36,8 +36,7 @@
             },
             "state": {
                 "type": ["string", "null"],
-                "description": "State or Province, when available",
-		"required" : true
+                "description": "State or Province, when available"
             },
             "country": {
                 "type": "string",
