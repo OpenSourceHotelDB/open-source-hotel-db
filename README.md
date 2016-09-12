@@ -11,6 +11,6 @@ This project is building an open-source, community-owned database of every hotel
 1. SPG: :white_check_mark:
 2. Hilton: :white_check_mark:
 3. [Hyatt](https://www.hyatt.com/gp/en/awards/hyatt_category_display.jsp): :x:
-4. Marriott: :x:
+4. [Marriott](http://www.marriott.com/rewards/pointsGridPopUpPropertyList.mi): :x:
 5. [Wyndham](http://www.wyndhamhotelgroup.com/hotels/locations): :x:
 6. [RitzCarlton](http://www.ritzcarlton.com/en/hotels): :x:
